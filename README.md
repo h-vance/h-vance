@@ -60,15 +60,6 @@ Primary Artifact: [Microservices-Cluster](https://github.com/h-vance/self-healin
   <img src="https://custom-icon-badges.demolab.com/badge/Grafana-18181b.svg?logo=grafana&logoColor=white">
 </p>
 
-**[Incident-Postmortems](https://github.com/h-vance/incident-postmortems)**  
-> Codified institutional memory of failure modes and remediation strategies for cloud-scale systems.  
-> **STACK**  
-<p align="left">
-  <img src="https://custom-icon-badges.demolab.com/badge/SRE-18181b.svg?logoColor=white">
-  <img src="https://custom-icon-badges.demolab.com/badge/Markdown-18181b.svg?logo=markdown&logoColor=white">
-  <img src="https://custom-icon-badges.demolab.com/badge/Obsidian-18181b.svg?logo=obsidian&logoColor=white">
-</p>
-
 ---
 
 ### ✦ TECHNICAL ARSENAL
