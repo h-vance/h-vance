@@ -17,7 +17,7 @@
 
 **Distributed Systems & Low-Latency APIs**  
 Design and operation of high-concurrency execution engines and resilient API gateways. Focused on sub-10ms performance and absolute fault tolerance in high-frequency environments.  
-Primary Artifact: [Algorithmic-Trading-Engine](https://github.com/h-vance/algorithmic-trading-engine) (Proprietary)
+Primary Artifact: [Algorithmic-Trading-Engine](https://github.com/h-vance/algorithmic-trading-engine) 
 
 **Cloud-Native Orchestration**  
 Standardizing production-grade environments through Kubernetes and Infrastructure as Code. Specialized in multi-account AWS Landing Zones and automated service discovery.  
