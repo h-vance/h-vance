@@ -103,18 +103,6 @@ Primary Artifact: [Microservices-Cluster](https://github.com/h-vance/self-healin
 
 ---
 
-### ✦ VERIFICATION
-
-<p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=h-vance&theme=github-dark&margin-w=15&column=7&title=-Issues,-Reviews&t=26" width="100%">
-</p>
-
-<p align="left">
-  <img src="https://raw.githubusercontent.com/h-vance/h-vance/output/github-contribution-grid-snake-dark.svg" width="100%">
-</p>
-
----
-
 <p align="center">
   <a href="https://linkedin.com/in/harrison-vance"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-18181b.svg?logo=linkedin&logoColor=white"></a>
   <a href="mailto:hvance788@gmail.com"><img src="https://custom-icon-badges.demolab.com/badge/Email-18181b.svg?logo=mail&logoColor=white"></a>
