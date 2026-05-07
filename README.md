@@ -96,5 +96,3 @@ Primary Artifact: [Systems-Debugging-Framework](https://github.com/h-vance/syste
   <a href="mailto:hvance788@gmail.com"><img src="https://custom-icon-badges.demolab.com/badge/Email-18181b.svg?logo=mail&logoColor=white"></a>
   <a href="https://harrisonvance.cc"><img src="https://custom-icon-badges.demolab.com/badge/Portfolio-18181b.svg?logo=globe&logoColor=white"></a>
 </p>
-
-Operations & Reliability Engineered (c) 2026 Harrison Vance.
