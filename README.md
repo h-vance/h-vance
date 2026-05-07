@@ -13,7 +13,7 @@
 
 ---
 
-### ✦ ARCHITECTURAL FOCUS
+### ✦ ENGINEERING FOCUS
 
 **Cloud Infrastructure & Automation**  
 Standardizing production-grade environments through Infrastructure as Code. Specialized in multi-account AWS Landing Zones and automated service deployment.  
