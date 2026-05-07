@@ -11,6 +11,10 @@
   <a href="https://harrisonvance.cc"><img src="https://custom-icon-badges.demolab.com/badge/Website-18181b.svg?logo=globe&logoColor=white"></a>
 </p>
 
+Cloud Operations Engineer focused on infrastructure reliability, CI/CD pipelines, and automated incident response. Built on a 10-year foundation of managing high-pressure production environments, I specialize in scaling AWS infrastructure and ensuring zero-downtime deployments.
+
+**Learning:** AWS Solutions Architect Certification Track
+
 ---
 
 ### ✦ ENGINEERING FOCUS
