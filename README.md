@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://custom-icon-badges.demolab.com/badge/Location-REMOTE%20•%20USA/APAC-18181b.svg?logo=location&logoColor=white">
+  <img src="https://custom-icon-badges.demolab.com/badge/Location-REMOTE%20•%20THAILAND/APAC-18181b.svg?logo=location&logoColor=white">
   &nbsp;&nbsp;
   <p align="center">
   <a href="https://linkedin.com/in/harrison-vance"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-18181b.svg?logo=linkedin&logoColor=white"></a>
@@ -13,60 +13,50 @@
 
 ---
 
-### ✦ SOLUTIONS ARCHITECTURE
+### ✦ OPERATIONAL LEADERSHIP
 
-**Cloud Solutions Architecture**  
-Designing and provisioning resilient AWS environments using Terraform. Focused on multi-environment scaling, fault tolerance, and reducing configuration drift for high-stakes production systems.  
-Primary Artifact: [AWS-Landing-Zone](https://github.com/h-vance/aws-landing-zone-terraform)
+**Technical Operations | Infrastructure Lead**  
+12+ years of experience ensuring business continuity and systems integrity across AI, Blockchain, and Healthcare. I specialize in bridging the gap between complex architectural vision and high-stakes production reliability.
 
-**AI-Native Engineering**  
-Using LLM orchestration to automate the operational lifecycle. Expert in building autonomous diagnostic agents that replace manual triage and reduce toil through high-velocity AI-augmented workflows.  
-Primary Artifact: [AWS-Bedrock-AI-Agent](https://github.com/h-vance/aws-bedrock-agent)
+**Multi-Cloud Reliability & Strategy**  
+Managing multi-tenant environments across **GCP and AWS**. Focused on multi-account security, automated scaling, and reducing operational risk for global platforms through standardized production guardrails.  
+Primary Artifact: [Cloud-Infrastructure-Baseline](https://github.com/h-vance/cloud-service-baseline)
 
-**Production Reliability & Operations**  
-12 years of diagnostic experience in HIPAA-regulated healthcare and financial trading. Building self-healing systems and incident automation using Prometheus, Grafana, and n8n.  
-Primary Artifact: [Cloud-Operations-Runbook](https://github.com/h-vance/cloud-operations-runbook)
+**AI-Driven Operational Efficiency**  
+Directing the use of LLM orchestration to automate the operational lifecycle. I architect autonomous diagnostic solutions that eliminate manual triage and drive high-velocity incident response.  
+Primary Artifact: [AWS-Remediation-Pipeline](https://github.com/h-vance/aws-bedrock-agent)
 
 ---
 
-### ✦ DEPLOYED SYSTEMS
+### ✦ SOLUTIONS & ARCHITECTURE
 
-**[AWS-Bedrock-AI-Agent](https://github.com/h-vance/aws-bedrock-agent)**  
-AI-augmented operational agent for automated incident response and cloud infrastructure remediation.  
+**[AWS-Automated-Remediation-Pipeline](https://github.com/h-vance/aws-bedrock-agent)**  
+Event-driven security and reliability engine. Autonomously detects, isolates, and remediates infrastructure failures using LLM orchestration.  
 **STACK**  
 <p align="left">
   <img src="https://custom-icon-badges.demolab.com/badge/AWS-18181b.svg?logo=aws&logoColor=white">
-  <img src="https://custom-icon-badges.demolab.com/badge/AWS_Lambda-18181b.svg?logo=aws-lambda&logoColor=white">
+  <img src="https://custom-icon-badges.demolab.com/badge/GCP-18181b.svg?logo=google-cloud&logoColor=white">
   <img src="https://custom-icon-badges.demolab.com/badge/Python-18181b.svg?logo=python&logoColor=white">
-  <img src="https://custom-icon-badges.demolab.com/badge/Anthropic-18181b.svg?logo=anthropic&logoColor=white">
+  <img src="https://custom-icon-badges.demolab.com/badge/Terraform-18181b.svg?logo=terraform&logoColor=white">
 </p>
 
-**[Systems-Debugging-Framework](https://github.com/h-vance/systems-debugging-framework)**  
-Comprehensive methodology and toolset for root cause analysis and identifying bottlenecks in complex systems.  
+**[Kubernetes-Ops-TUI](https://github.com/h-vance/systems-debugging-framework)**  
+Fast-incident triage dashboard for real-time cluster monitoring, workload health, and readiness signals.  
 **STACK**  
 <p align="left">
   <img src="https://custom-icon-badges.demolab.com/badge/Linux-18181b.svg?logo=linux&logoColor=white">
   <img src="https://custom-icon-badges.demolab.com/badge/Go-18181b.svg?logo=go&logoColor=white">
-  <img src="https://custom-icon-badges.demolab.com/badge/BPF-18181b.svg?logo=ebpf&logoColor=white">
+  <img src="https://custom-icon-badges.demolab.com/badge/eBPF-18181b.svg?logo=ebpf&logoColor=white">
   <img src="https://custom-icon-badges.demolab.com/badge/Prometheus-18181b.svg?logo=prometheus&logoColor=white">
 </p>
 
-**[Cloud-Service-Baseline](https://github.com/h-vance/cloud-service-baseline)**  
-Reference implementation for hardened production services with Docker, systemd, and observability.  
+**[Self-Healing-Web3-Infrastructure](https://github.com/h-vance/cloud-operations-runbook)**  
+Workflow-as-code automation bridging Kubernetes orchestration with on-chain protocol health.  
 **STACK**  
 <p align="left">
+  <img src="https://custom-icon-badges.demolab.com/badge/n8n-18181b.svg?logo=n8n&logoColor=white">
   <img src="https://custom-icon-badges.demolab.com/badge/Docker-18181b.svg?logo=docker&logoColor=white">
-  <img src="https://custom-icon-badges.demolab.com/badge/NGINX-18181b.svg?logo=nginx&logoColor=white">
-  <img src="https://custom-icon-badges.demolab.com/badge/Grafana-18181b.svg?logo=grafana&logoColor=white">
-</p>
-
-**[Incident-Postmortems](https://github.com/h-vance/incident-postmortems)**  
-Codified institutional memory of failure modes and remediation strategies for cloud-scale systems.  
-**STACK**  
-<p align="left">
-  <img src="https://custom-icon-badges.demolab.com/badge/Production Reliability-18181b.svg?logoColor=white">
-  <img src="https://custom-icon-badges.demolab.com/badge/Markdown-18181b.svg?logo=markdown&logoColor=white">
-  <img src="https://custom-icon-badges.demolab.com/badge/Obsidian-18181b.svg?logo=obsidian&logoColor=white">
+  <img src="https://custom-icon-badges.demolab.com/badge/Kubernetes-18181b.svg?logo=kubernetes&logoColor=white">
 </p>
 
 ---
@@ -74,28 +64,19 @@ Codified institutional memory of failure modes and remediation strategies for cl
 ### ✦ TECHNICAL ARSENAL
 
 <div align="center">
-  <img src="https://custom-icon-badges.demolab.com/badge/AWS-18181b.svg?logo=aws&logoColor=white&t=27">
-  <img src="https://custom-icon-badges.demolab.com/badge/Solutions_Architecture-18181b.svg?logoColor=white&t=27">
-  <img src="https://custom-icon-badges.demolab.com/badge/Kubernetes-18181b.svg?logo=kubernetes&logoColor=white&t=27">
-  <img src="https://custom-icon-badges.demolab.com/badge/Terraform-18181b.svg?logo=terraform&logoColor=white&t=27">
-  <img src="https://custom-icon-badges.demolab.com/badge/AI_Engineering-18181b.svg?logoColor=white&t=27">
-  <img src="https://custom-icon-badges.demolab.com/badge/Docker-18181b.svg?logo=docker&logoColor=white&t=27">
-  <img src="https://custom-icon-badges.demolab.com/badge/GitHub_Actions-18181b.svg?logo=github-actions&logoColor=white&t=27">
+  <img src="https://custom-icon-badges.demolab.com/badge/Technical_Ops_Management-18181b.svg?logoColor=white&t=27">
+  <img src="https://custom-icon-badges.demolab.com/badge/Infrastructure_Reliability-18181b.svg?logoColor=white&t=27">
+  <img src="https://custom-icon-badges.demolab.com/badge/Multi_Cloud_Strategy-18181b.svg?logoColor=white&t=27">
   <br/>
-  <img src="https://custom-icon-badges.demolab.com/badge/Go-18181b.svg?logo=go&logoColor=white&t=27">
-  <img src="https://custom-icon-badges.demolab.com/badge/Python-18181b.svg?logo=python&logoColor=white&t=27">
-  <img src="https://custom-icon-badges.demolab.com/badge/Shell-18181b.svg?logo=gnubash&logoColor=white&t=27">
-  <img src="https://custom-icon-badges.demolab.com/badge/TypeScript-18181b.svg?logo=typescript&logoColor=white&t=27">
-  <img src="https://custom-icon-badges.demolab.com/badge/Linux-18181b.svg?logo=linux&logoColor=white&t=27">
-  <img src="https://custom-icon-badges.demolab.com/badge/eBPF-18181b.svg?logo=ebpf&logoColor=white&t=27">
+  <img src="https://custom-icon-badges.demolab.com/badge/AWS-18181b.svg?logo=aws&logoColor=white&t=27">
+  <img src="https://custom-icon-badges.demolab.com/badge/GCP-18181b.svg?logo=google-cloud&logoColor=white&t=27">
+  <img src="https://custom-icon-badges.demolab.com/badge/Terraform-18181b.svg?logo=terraform&logoColor=white&t=27">
+  <img src="https://custom-icon-badges.demolab.com/badge/Kubernetes-18181b.svg?logo=kubernetes&logoColor=white&t=27">
   <br/>
   <img src="https://custom-icon-badges.demolab.com/badge/Prometheus-18181b.svg?logo=prometheus&logoColor=white&t=27">
   <img src="https://custom-icon-badges.demolab.com/badge/Grafana-18181b.svg?logo=grafana&logoColor=white&t=27">
-  <img src="https://custom-icon-badges.demolab.com/badge/Redis-18181b.svg?logo=redis&logoColor=white&t=27">
-  <img src="https://custom-icon-badges.demolab.com/badge/PostgreSQL-18181b.svg?logo=postgresql&logoColor=white&t=27">
   <img src="https://custom-icon-badges.demolab.com/badge/n8n-18181b.svg?logo=n8n&logoColor=white&t=27">
-  <img src="https://custom-icon-badges.demolab.com/badge/Obsidian-18181b.svg?logo=obsidian&logoColor=white&t=27">
-  <img src="https://custom-icon-badges.demolab.com/badge/Markdown-18181b.svg?logo=markdown&logoColor=white&t=27">
+  <img src="https://custom-icon-badges.demolab.com/badge/Information_Security-18181b.svg?logoColor=white&t=27">
 </div>
 
 ---
