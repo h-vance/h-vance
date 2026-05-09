@@ -1,5 +1,5 @@
 <p align="left">
-  <img src="./header.svg?t=27" width="100%" />
+  <img src="./header_v2.svg?t=20260509" width="100%" />
 </p>
 
 <p align="center">
@@ -75,6 +75,8 @@ Workflow-as-code automation bridging Kubernetes orchestration with on-chain prot
   <br/>
   <img src="https://custom-icon-badges.demolab.com/badge/Prometheus-18181b.svg?logo=prometheus&logoColor=white&t=27">
   <img src="https://custom-icon-badges.demolab.com/badge/Grafana-18181b.svg?logo=grafana&logoColor=white&t=27">
+  <img src="https://custom-icon-badges.demolab.com/badge/Linux-18181b.svg?logo=linux&logoColor=white&t=27">
+  <img src="https://custom-icon-badges.demolab.com/badge/Bash-18181b.svg?logo=gnubash&logoColor=white&t=27">
   <img src="https://custom-icon-badges.demolab.com/badge/n8n-18181b.svg?logo=n8n&logoColor=white&t=27">
   <img src="https://custom-icon-badges.demolab.com/badge/Information_Security-18181b.svg?logoColor=white&t=27">
 </div>
