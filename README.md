@@ -13,17 +13,17 @@
 
 ---
 
-### ✦ OPERATIONAL LEADERSHIP
+### ✦ TECHNICAL OPERATIONS
 
-**Technical Operations | Infrastructure Lead**  
-12+ years of experience ensuring business continuity and systems integrity across AI, Blockchain, and Healthcare. I specialize in bridging the gap between complex architectural vision and high-stakes production reliability.
+**Technical Operations Associate | Technical Support Specialist**  
+12+ years of professional experience across regulated compliance operations and independent technical projects. I specialize in systems reliability, technical troubleshooting, and high-agency problem solving.
 
-**Multi-Cloud Reliability & Strategy**  
-Managing multi-tenant environments across **GCP and AWS**. Focused on multi-account security, automated scaling, and reducing operational risk for global platforms through standardized production guardrails.  
+**Technical Project Management (Self-Employed)**  
+Managing independent environments across **GCP and AWS**. Focused on reliability, automated failure detection, and maintaining 24/7 service availability for AI and Blockchain initiatives.  
 Primary Artifact: [Cloud-Infrastructure-Baseline](https://github.com/h-vance/cloud-service-baseline)
 
-**AI-Driven Operational Efficiency**  
-Directing the use of LLM orchestration to automate the operational lifecycle. I architect autonomous diagnostic solutions that eliminate manual triage and drive high-velocity incident response.  
+**Diagnostic Automation & Efficiency**  
+Using Python and LLM orchestration to automate the troubleshooting lifecycle. I build autonomous diagnostic solutions that eliminate repetitive triage and ensure rapid incident response.  
 Primary Artifact: [AWS-Remediation-Pipeline](https://github.com/h-vance/aws-bedrock-agent)
 
 ---
