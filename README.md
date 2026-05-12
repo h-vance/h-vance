@@ -1,90 +1,145 @@
-<p align="left">
-  <img src="./header_v2.svg?t=20260509" width="100%" />
-</p>
+# Technical Operations & Support Engineering
 
-<p align="center">
-  <img src="https://custom-icon-badges.demolab.com/badge/Location-REMOTE%20•%20THAILAND/APAC-18181b.svg?logo=location&logoColor=white">
-  &nbsp;&nbsp;
-  <p align="center">
-  <a href="https://linkedin.com/in/harrison-vance"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-18181b.svg?logo=linkedin&logoColor=white"></a>
-  <a href="mailto:hvance788@gmail.com"><img src="https://custom-icon-badges.demolab.com/badge/Email-18181b.svg?logo=mail&logoColor=white"></a>
-  <a href="https://harrisonvance.cc"><img src="https://custom-icon-badges.demolab.com/badge/Portfolio-18181b.svg?logo=globe&logoColor=white"></a>
-</p>
+Technical Support Engineer | Linux | APIs | Cloud Systems | Incident Response  
+12+ years of experience across regulated operations environments and production technical support workflows.
 
 ---
 
-### ✦ TECHNICAL OPERATIONS
+## Overview
 
-**Technical Operations Associate | Technical Support Specialist**  
-12+ years of professional experience across regulated compliance operations and independent technical projects. I specialize in systems reliability, technical troubleshooting, and high-agency problem solving.
+I work on production-facing systems where reliability, troubleshooting speed, and clear incident handling matter.
 
-**Technical Project Management (Self-Employed)**  
-Managing independent environments across **GCP and AWS**. Focused on reliability, automated failure detection, and maintaining 24/7 service availability for AI and Blockchain initiatives.  
-Primary Artifact: [Cloud-Infrastructure-Baseline](https://github.com/h-vance/cloud-service-baseline)
+My focus is on:
+- Diagnosing and resolving system and application issues
+- Supporting Linux and cloud-based production environments
+- Debugging APIs and distributed systems
+- Building operational tooling that improves incident response and visibility
+- Reducing time-to-resolution through better diagnostics and automation
 
-**Diagnostic Automation & Efficiency**  
-Using Python and LLM orchestration to automate the troubleshooting lifecycle. I build autonomous diagnostic solutions that eliminate repetitive triage and ensure rapid incident response.  
-Primary Artifact: [AWS-Remediation-Pipeline](https://github.com/h-vance/aws-bedrock-agent)
-
----
-
-### ✦ SOLUTIONS & ARCHITECTURE
-
-**[AWS-Automated-Remediation-Pipeline](https://github.com/h-vance/aws-bedrock-agent)**  
-Event-driven security and reliability engine. Autonomously detects, isolates, and remediates infrastructure failures using LLM orchestration.  
-**STACK**  
-<p align="left">
-  <img src="https://custom-icon-badges.demolab.com/badge/AWS-18181b.svg?logo=aws&logoColor=white">
-  <img src="https://custom-icon-badges.demolab.com/badge/GCP-18181b.svg?logo=google-cloud&logoColor=white">
-  <img src="https://custom-icon-badges.demolab.com/badge/Python-18181b.svg?logo=python&logoColor=white">
-  <img src="https://custom-icon-badges.demolab.com/badge/Terraform-18181b.svg?logo=terraform&logoColor=white">
-</p>
-
-**[Kubernetes-Ops-TUI](https://github.com/h-vance/systems-debugging-framework)**  
-Fast-incident triage dashboard for real-time cluster monitoring, workload health, and readiness signals.  
-**STACK**  
-<p align="left">
-  <img src="https://custom-icon-badges.demolab.com/badge/Linux-18181b.svg?logo=linux&logoColor=white">
-  <img src="https://custom-icon-badges.demolab.com/badge/Go-18181b.svg?logo=go&logoColor=white">
-  <img src="https://custom-icon-badges.demolab.com/badge/eBPF-18181b.svg?logo=ebpf&logoColor=white">
-  <img src="https://custom-icon-badges.demolab.com/badge/Prometheus-18181b.svg?logo=prometheus&logoColor=white">
-</p>
-
-**[Self-Healing-Web3-Infrastructure](https://github.com/h-vance/cloud-operations-runbook)**  
-Workflow-as-code automation bridging Kubernetes orchestration with on-chain protocol health.  
-**STACK**  
-<p align="left">
-  <img src="https://custom-icon-badges.demolab.com/badge/n8n-18181b.svg?logo=n8n&logoColor=white">
-  <img src="https://custom-icon-badges.demolab.com/badge/Docker-18181b.svg?logo=docker&logoColor=white">
-  <img src="https://custom-icon-badges.demolab.com/badge/Kubernetes-18181b.svg?logo=kubernetes&logoColor=white">
-</p>
+I operate in environments where stability, communication, and structured troubleshooting are critical.
 
 ---
 
-### ✦ TECHNICAL ARSENAL
+## Core Focus Areas
 
-<div align="center">
-  <img src="https://custom-icon-badges.demolab.com/badge/Technical_Ops_Management-18181b.svg?logoColor=white&t=27">
-  <img src="https://custom-icon-badges.demolab.com/badge/Infrastructure_Reliability-18181b.svg?logoColor=white&t=27">
-  <img src="https://custom-icon-badges.demolab.com/badge/Multi_Cloud_Strategy-18181b.svg?logoColor=white&t=27">
-  <br/>
-  <img src="https://custom-icon-badges.demolab.com/badge/AWS-18181b.svg?logo=aws&logoColor=white&t=27">
-  <img src="https://custom-icon-badges.demolab.com/badge/GCP-18181b.svg?logo=google-cloud&logoColor=white&t=27">
-  <img src="https://custom-icon-badges.demolab.com/badge/Terraform-18181b.svg?logo=terraform&logoColor=white&t=27">
-  <img src="https://custom-icon-badges.demolab.com/badge/Kubernetes-18181b.svg?logo=kubernetes&logoColor=white&t=27">
-  <br/>
-  <img src="https://custom-icon-badges.demolab.com/badge/Prometheus-18181b.svg?logo=prometheus&logoColor=white&t=27">
-  <img src="https://custom-icon-badges.demolab.com/badge/Grafana-18181b.svg?logo=grafana&logoColor=white&t=27">
-  <img src="https://custom-icon-badges.demolab.com/badge/Linux-18181b.svg?logo=linux&logoColor=white&t=27">
-  <img src="https://custom-icon-badges.demolab.com/badge/Bash-18181b.svg?logo=gnubash&logoColor=white&t=27">
-  <img src="https://custom-icon-badges.demolab.com/badge/n8n-18181b.svg?logo=n8n&logoColor=white&t=27">
-  <img src="https://custom-icon-badges.demolab.com/badge/Information_Security-18181b.svg?logoColor=white&t=27">
-</div>
+### Technical Support & Incident Response
+- Production incident triage and troubleshooting
+- Ticket-based support workflows (Jira-style systems)
+- Root cause analysis (RCA)
+- Escalation handling with engineering teams
+- Incident communication and status updates
+
+### Linux & Cloud Troubleshooting
+- Linux CLI-based diagnostics and log analysis
+- Cloud environment support (AWS / GCP exposure)
+- System performance troubleshooting
+- Service availability and uptime monitoring
+- DNS, networking, and connectivity debugging
+
+### API & Application Support
+- REST API troubleshooting using cURL / Postman
+- Debugging service integrations and backend failures
+- Reproducing production issues in controlled environments
+- Identifying error patterns from logs and telemetry
+
+### Operational Automation
+- Python scripts for system health checks and diagnostics
+- Bash scripting for log processing and operational tasks
+- Automation of repetitive troubleshooting workflows
+- Lightweight tooling to improve incident response speed
 
 ---
 
-<p align="center">
-  <a href="https://linkedin.com/in/harrison-vance"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-18181b.svg?logo=linkedin&logoColor=white"></a>
-  <a href="mailto:hvance788@gmail.com"><img src="https://custom-icon-badges.demolab.com/badge/Email-18181b.svg?logo=mail&logoColor=white"></a>
-  <a href="https://harrisonvance.cc"><img src="https://custom-icon-badges.demolab.com/badge/Portfolio-18181b.svg?logo=globe&logoColor=white"></a>
-</p>
+## Selected Projects
+
+### AWS Production Diagnostics Toolkit
+Python and Bash-based tooling designed to assist with identifying and monitoring production system issues in cloud environments.
+
+- Log parsing and error pattern detection
+- Automated health checks for deployed services
+- Basic alerting and diagnostic outputs for operators
+
+---
+
+### Kubernetes Operational Monitoring Toolkit
+A CLI-focused toolkit for inspecting Kubernetes cluster state during incidents.
+
+- Node and pod health visibility
+- Quick diagnostic commands for troubleshooting failures
+- Support for fast incident triage during production issues
+
+---
+
+### API & Service Troubleshooting Utilities
+Lightweight scripts used to debug and validate service behavior in distributed environments.
+
+- API request validation and response inspection
+- Basic failure reproduction tooling
+- Support utilities for incident escalation contexts
+
+---
+
+## Technical Environment
+
+**Operating Systems**
+- Linux (CLI-based troubleshooting)
+
+**Cloud Platforms**
+- AWS (EC2, CloudWatch, IAM)
+- GCP (basic operational exposure)
+
+**Networking**
+- DNS troubleshooting
+- TCP/IP fundamentals
+- VPN and connectivity debugging
+
+**Tools**
+- Jira (ticket-based workflows)
+- Git (version control)
+- Postman / cURL
+- Logging & monitoring tools
+
+**Scripting**
+- Python (automation + diagnostics)
+- Bash (system utilities and tooling)
+
+---
+
+## Professional Background
+
+Experience spans production operations, technical support environments, and regulated operational roles.
+
+Work has consistently involved:
+- Incident response and system recovery
+- Troubleshooting live production issues under pressure
+- Supporting distributed systems and applications
+- Maintaining operational stability across technical environments
+- Working within structured escalation and support workflows
+
+---
+
+## Availability
+
+- Remote (US / APAC coverage)
+- Based in Bangkok (UTC+7)
+- Available for overnight US support shifts (follow-the-sun coverage)
+
+---
+
+## Target Roles
+
+- Technical Support Engineer
+- Application Support Engineer
+- Production Support Engineer
+- Customer Support Engineer (Technical)
+- Platform Support Specialist
+- Incident Response / Operations Support
+
+---
+
+## Contact
+
+- GitHub: https://github.com/h-vance
+- LinkedIn: https://linkedin.com/in/harrison-vance
+- Website: https://harrisonvance.cc
+- Email: hvance788@gmail.com
