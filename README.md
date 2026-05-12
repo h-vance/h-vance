@@ -1,145 +1,155 @@
-# Technical Operations & Support Engineering
+# Technical Support Engineer  
+## SaaS / Application Support / Production Incident Response  
+Linux • APIs • Debugging • Cloud Systems  
 
-Technical Support Engineer | Linux | APIs | Cloud Systems | Incident Response  
-12+ years of experience across regulated operations environments and production technical support workflows.
+12+ years supporting production systems where fast incident triage, API debugging, and structured escalation are critical to service reliability.
 
 ---
 
 ## Overview
 
-I work on production-facing systems where reliability, troubleshooting speed, and clear incident handling matter.
+I work in production SaaS environments where systems fail under real customer usage and support teams are responsible for quickly isolating, reproducing, and resolving issues.
 
 My focus is on:
-- Diagnosing and resolving system and application issues
-- Supporting Linux and cloud-based production environments
-- Debugging APIs and distributed systems
-- Building operational tooling that improves incident response and visibility
-- Reducing time-to-resolution through better diagnostics and automation
+- Turning customer reports into reproducible technical issues  
+- Debugging APIs, services, and Linux-based systems in production  
+- Identifying root cause across distributed systems  
+- Writing clear, engineering-ready escalation reports  
 
-I operate in environments where stability, communication, and structured troubleshooting are critical.
+I optimize for **time-to-resolution (TTR)** through structured troubleshooting, clean diagnostics, and fast signal extraction from logs and system behavior.
+
+I operate well in high-pressure environments where clarity, speed, and technical accuracy matter more than process overhead.
 
 ---
 
-## Core Focus Areas
+## Core Responsibilities
 
-### Technical Support & Incident Response
-- Production incident triage and troubleshooting
-- Ticket-based support workflows (Jira-style systems)
-- Root cause analysis (RCA)
-- Escalation handling with engineering teams
-- Incident communication and status updates
+### SaaS Incident Triage
+- Investigate customer-reported production issues  
+- Prioritize incidents based on severity and business impact  
+- Manage ticket workflows (Jira-style systems)  
+- Provide clear status updates during active incidents  
 
-### Linux & Cloud Troubleshooting
-- Linux CLI-based diagnostics and log analysis
-- Cloud environment support (AWS / GCP exposure)
-- System performance troubleshooting
-- Service availability and uptime monitoring
-- DNS, networking, and connectivity debugging
+---
 
-### API & Application Support
-- REST API troubleshooting using cURL / Postman
-- Debugging service integrations and backend failures
-- Reproducing production issues in controlled environments
-- Identifying error patterns from logs and telemetry
+### API & Application Debugging
+- Debug REST APIs using Postman and cURL  
+- Validate request/response behavior across services  
+- Reproduce integration and backend failures in controlled environments  
+- Identify failure points using logs and error patterns  
 
-### Operational Automation
-- Python scripts for system health checks and diagnostics
-- Bash scripting for log processing and operational tasks
-- Automation of repetitive troubleshooting workflows
-- Lightweight tooling to improve incident response speed
+---
+
+### Linux & Production Systems Troubleshooting
+- Diagnose issues using Linux CLI tools and system logs  
+- Investigate service degradation and outages in production systems  
+- Analyze performance issues across distributed environments  
+- Support cloud-hosted systems (AWS / GCP exposure)  
+
+---
+
+### Engineering Escalation
+- Convert incidents into structured, reproducible bug reports  
+- Provide logs, reproduction steps, and system context  
+- Reduce engineering back-and-forth cycles  
+- Improve escalation quality and resolution speed  
+
+---
+
+### Operational Automation (Support-Level)
+- Build Python scripts for diagnostics and system health checks  
+- Use Bash scripts for log processing and troubleshooting workflows  
+- Automate repetitive support tasks  
+- Improve visibility during incident response  
 
 ---
 
 ## Selected Projects
 
-### AWS Production Diagnostics Toolkit
-Python and Bash-based tooling designed to assist with identifying and monitoring production system issues in cloud environments.
+### Production Diagnostics Toolkit (AWS / Linux)
+Lightweight tooling for identifying and analyzing production system issues.
 
-- Log parsing and error pattern detection
-- Automated health checks for deployed services
-- Basic alerting and diagnostic outputs for operators
-
----
-
-### Kubernetes Operational Monitoring Toolkit
-A CLI-focused toolkit for inspecting Kubernetes cluster state during incidents.
-
-- Node and pod health visibility
-- Quick diagnostic commands for troubleshooting failures
-- Support for fast incident triage during production issues
+- Automated health checks for services  
+- Log parsing and error pattern detection  
+- Diagnostic outputs for incident triage  
 
 ---
 
-### API & Service Troubleshooting Utilities
-Lightweight scripts used to debug and validate service behavior in distributed environments.
+### Kubernetes Incident Monitoring Toolkit
+CLI-based tools for fast visibility during production incidents.
 
-- API request validation and response inspection
-- Basic failure reproduction tooling
-- Support utilities for incident escalation contexts
-
----
-
-## Technical Environment
-
-**Operating Systems**
-- Linux (CLI-based troubleshooting)
-
-**Cloud Platforms**
-- AWS (EC2, CloudWatch, IAM)
-- GCP (basic operational exposure)
-
-**Networking**
-- DNS troubleshooting
-- TCP/IP fundamentals
-- VPN and connectivity debugging
-
-**Tools**
-- Jira (ticket-based workflows)
-- Git (version control)
-- Postman / cURL
-- Logging & monitoring tools
-
-**Scripting**
-- Python (automation + diagnostics)
-- Bash (system utilities and tooling)
+- Node and pod health inspection  
+- Quick diagnostic commands for outages  
+- Faster triage of system-level failures  
 
 ---
 
-## Professional Background
+### API Debugging Utilities
+Scripts for validating and reproducing service issues in distributed systems.
 
-Experience spans production operations, technical support environments, and regulated operational roles.
+- REST API validation (cURL / Postman)  
+- Failure reproduction workflows  
+- Escalation support tooling  
 
-Work has consistently involved:
-- Incident response and system recovery
-- Troubleshooting live production issues under pressure
-- Supporting distributed systems and applications
-- Maintaining operational stability across technical environments
-- Working within structured escalation and support workflows
+---
+
+## Technical Stack
+
+### Support & Incident Systems
+- Jira / ticket-based workflows  
+- Incident triage & escalation handling  
+- SLA / MTTR / FRT awareness  
+
+### APIs & Debugging
+- REST APIs (Postman, cURL)  
+- Integration troubleshooting  
+- Response validation & error tracing  
+
+### Systems
+- Linux CLI (logs, processes, services)  
+- AWS / GCP production exposure  
+- Networking: DNS, TCP/IP, VPN  
+
+### Automation
+- Python (diagnostic scripting)  
+- Bash (system tooling)  
+
+---
+
+## Professional Experience Summary
+
+Experience spans production SaaS-like environments, technical support operations, and incident-driven system troubleshooting.
+
+Consistent responsibilities include:
+- Production incident response and resolution  
+- API and system-level debugging  
+- Root cause analysis under live conditions  
+- Engineering escalation with reproducible evidence  
+- Maintaining service stability in distributed systems  
 
 ---
 
 ## Availability
 
-- Remote (US / APAC coverage)
-- Based in Bangkok (UTC+7)
-- Available for overnight US support shifts (follow-the-sun coverage)
+- Remote (US / APAC coverage)  
+- Based in Bangkok (UTC+7)  
+- Available for US overnight / Follow-the-Sun support roles  
 
 ---
 
 ## Target Roles
 
-- Technical Support Engineer
-- Application Support Engineer
-- Production Support Engineer
-- Customer Support Engineer (Technical)
-- Platform Support Specialist
-- Incident Response / Operations Support
+- SaaS Technical Support Engineer  
+- Application Support Engineer  
+- Production Support Engineer  
+- Tier 2 / Escalation Engineer  
+- Follow-the-Sun Support (US / APAC)  
 
 ---
 
 ## Contact
 
-- GitHub: https://github.com/h-vance
-- LinkedIn: https://linkedin.com/in/harrison-vance
-- Website: https://harrisonvance.cc
-- Email: hvance788@gmail.com
+- GitHub: https://github.com/h-vance  
+- LinkedIn: https://linkedin.com/in/harrison-vance  
+- Website: https://harrisonvance.cc  
+- Email: hvance788@gmail.com  
