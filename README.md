@@ -24,16 +24,16 @@ I believe that the best support engineers don't just close tickets; they protect
 
 *(Note: These are operational tools built to speed up incident triage and maintain system health)*
 
-#### 1. Automated Health Verification (Python)
+#### 1. [ops-diagnostics](https://github.com/h-vance/ops-diagnostics) (Python)
 * **The Symptom:** Manual verification of production application services was slowing down initial ticket triage and increasing Mean Time to Resolution (MTTR). 
 * **The Investigation:** Support teams needed a faster way to confirm if a reported outage was a localized user issue or a broader service degradation.
 * **The Resolution:** Developed lightweight Python diagnostic scripts to automatically ping endpoints, parse health status, and monitor application log files for recurring error patterns. Reduced manual verification time and accelerated engineering escalations.
 
-#### 2. Log Rotation & Storage Maintenance (Bash)
+#### 2. [log-rotation-maintenance](https://github.com/h-vance/log-rotation-maintenance) (Bash)
 * **The Symptom:** Unmanaged production application logs risked filling server storage, potentially leading to service degradation and lost diagnostic data.
 * **The Resolution:** Implemented automated Bash scripts for log rotation, compression, and cleanup on Linux servers. Ensured continuous availability of storage and preserved critical logs for post-incident RCA.
 
-#### 3. Standard Operating Procedures (SOPs) & Runbooks
+#### 3. [cloud-operations-runbook](https://github.com/h-vance/cloud-operations-runbook)
 * **The Impact:** Authored and maintained 15+ comprehensive technical SOPs. 
 * **The Value:** Standardized common support tasks, reduced tribal knowledge, and improved the efficiency of the broader support team by providing repeatable troubleshooting paths.
 
