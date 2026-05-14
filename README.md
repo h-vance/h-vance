@@ -24,7 +24,7 @@ I believe that the best support engineers don't just close tickets; they protect
 
 *(Note: These are operational tools built to speed up incident triage and maintain system health)*
 
-#### 1. [ops-diagnostics](https://github.com/h-vance/ops-diagnostics) (Python)
+#### 1. [ops-diagnostics](https://github.com/h-vance/ops-diagnostics) (Python & Bash)
 * **The Symptom:** Manual verification of production application services was slowing down initial ticket triage and increasing Mean Time to Resolution (MTTR). 
 * **The Investigation:** Support teams needed a faster way to confirm if a reported outage was a localized user issue or a broader service degradation.
 * **The Resolution:** Developed lightweight Python diagnostic scripts to automatically ping endpoints, parse health status, and monitor application log files for recurring error patterns. Reduced manual verification time and accelerated engineering escalations.
