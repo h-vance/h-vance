@@ -1,7 +1,7 @@
 # Harrison Vance
 **Senior Technical Support Engineer | Production Incident Response**
 
-[![Live Status](https://img.shields.io/badge/Status-All%20Systems%20Operational-brightgreen)](#) *(Optional: Link to an Upptime status page if you set one up)*
+[![Live Status](https://img.shields.io/badge/Status-All%20Systems%20Operational-brightgreen)](#) 
 
 **2026 Focus:** Streamlining incident reproduction workflows, improving API observability, and eliminating the 12-hour "cold queue" for global SaaS platforms through reliable Follow-the-Sun (FTS) handoffs.
 
