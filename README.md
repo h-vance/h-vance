@@ -1,155 +1,49 @@
-# Technical Support Engineer  
-## SaaS / Application Support / Production Incident Response  
-Linux • APIs • Debugging • Cloud Systems  
+# Harrison Vance
+**Senior Technical Support Engineer | Production Incident Response**
 
-12+ years supporting production systems where fast incident triage, API debugging, and structured escalation are critical to service reliability.
+[![Live Status](https://img.shields.io/badge/Status-All%20Systems%20Operational-brightgreen)](#) *(Optional: Link to an Upptime status page if you set one up)*
 
----
-
-## Overview
-
-I work in production SaaS environments where systems fail under real customer usage and support teams are responsible for quickly isolating, reproducing, and resolving issues.
-
-My focus is on:
-- Turning customer reports into reproducible technical issues  
-- Debugging APIs, services, and Linux-based systems in production  
-- Identifying root cause across distributed systems  
-- Writing clear, engineering-ready escalation reports  
-
-I optimize for **time-to-resolution (TTR)** through structured troubleshooting, clean diagnostics, and fast signal extraction from logs and system behavior.
-
-I operate well in high-pressure environments where clarity, speed, and technical accuracy matter more than process overhead.
+**2026 Focus:** Streamlining incident reproduction workflows, improving API observability, and eliminating the 12-hour "cold queue" for global SaaS platforms through reliable Follow-the-Sun (FTS) handoffs.
 
 ---
 
-## Core Responsibilities
+### About Me
+I am a Technical Support & Operations professional with over 12 years of experience maintaining service stability in distributed systems. I specialize in the T2/T3 escalation layer: bridging the gap between customer-facing issues and core engineering teams. 
 
-### SaaS Incident Triage
-- Investigate customer-reported production issues  
-- Prioritize incidents based on severity and business impact  
-- Manage ticket workflows (Jira-style systems)  
-- Provide clear status updates during active incidents  
+Based in **Bangkok, Thailand (UTC+7)**, I provide native-level English support for US and EMEA platforms during the APAC window, ensuring critical overnight escalations are diagnosed, triaged, and resolved before the US morning shift begins.
 
----
-
-### API & Application Debugging
-- Debug REST APIs using Postman and cURL  
-- Validate request/response behavior across services  
-- Reproduce integration and backend failures in controlled environments  
-- Identify failure points using logs and error patterns  
+### My Support Philosophy
+I believe that the best support engineers don't just close tickets; they protect engineering time by providing undeniable, reproducible evidence. My day-to-day focuses on:
+* **Systematic Debugging:** I don't guess. I isolate variables across networks, APIs, and Linux environments to find the root cause.
+* **Engineering Empathy:** I convert vague customer reports into structured bug tickets with clear reproduction steps, attached payloads, and isolated log traces.
+* **Operational Toil Reduction:** If I have to do a diagnostic check more than three times, I write a Bash or Python script to automate it.
 
 ---
 
-### Linux & Production Systems Troubleshooting
-- Diagnose issues using Linux CLI tools and system logs  
-- Investigate service degradation and outages in production systems  
-- Analyze performance issues across distributed environments  
-- Support cloud-hosted systems (AWS / GCP exposure)  
+### Support Tooling & Diagnostic Narratives
+
+*(Note: These are operational tools built to speed up incident triage and maintain system health)*
+
+#### 1. Automated Health Verification (Python)
+* **The Symptom:** Manual verification of production application services was slowing down initial ticket triage and increasing Mean Time to Resolution (MTTR). 
+* **The Investigation:** Support teams needed a faster way to confirm if a reported outage was a localized user issue or a broader service degradation.
+* **The Resolution:** Developed lightweight Python diagnostic scripts to automatically ping endpoints, parse health status, and monitor application log files for recurring error patterns. Reduced manual verification time and accelerated engineering escalations.
+
+#### 2. Log Rotation & Storage Maintenance (Bash)
+* **The Symptom:** Unmanaged production application logs risked filling server storage, potentially leading to service degradation and lost diagnostic data.
+* **The Resolution:** Implemented automated Bash scripts for log rotation, compression, and cleanup on Linux servers. Ensured continuous availability of storage and preserved critical logs for post-incident RCA.
+
+#### 3. Standard Operating Procedures (SOPs) & Runbooks
+* **The Impact:** Authored and maintained 15+ comprehensive technical SOPs. 
+* **The Value:** Standardized common support tasks, reduced tribal knowledge, and improved the efficiency of the broader support team by providing repeatable troubleshooting paths.
 
 ---
 
-### Engineering Escalation
-- Convert incidents into structured, reproducible bug reports  
-- Provide logs, reproduction steps, and system context  
-- Reduce engineering back-and-forth cycles  
-- Improve escalation quality and resolution speed  
+### Technical Stack
 
----
+* **OS & Infrastructure:** Linux CLI (Operational Troubleshooting), AWS (EC2, CloudWatch), GCP
+* **API & Web Diagnostics:** REST API Triage, cURL, Postman, HTTP Payloads, SSL/TLS, DNS, TCP/IP
+* **Scripting & Automation:** Python (Script Debugging), Bash
+* **Workflows & Identity:** Jira, Zendesk, Incident Management, RCA, Okta, SAML, OAuth
 
-### Operational Automation (Support-Level)
-- Build Python scripts for diagnostics and system health checks  
-- Use Bash scripts for log processing and troubleshooting workflows  
-- Automate repetitive support tasks  
-- Improve visibility during incident response  
-
----
-
-## Selected Projects
-
-### Production Diagnostics Toolkit (AWS / Linux)
-Lightweight tooling for identifying and analyzing production system issues.
-
-- Automated health checks for services  
-- Log parsing and error pattern detection  
-- Diagnostic outputs for incident triage  
-
----
-
-### Kubernetes Incident Monitoring Toolkit
-CLI-based tools for fast visibility during production incidents.
-
-- Node and pod health inspection  
-- Quick diagnostic commands for outages  
-- Faster triage of system-level failures  
-
----
-
-### API Debugging Utilities
-Scripts for validating and reproducing service issues in distributed systems.
-
-- REST API validation (cURL / Postman)  
-- Failure reproduction workflows  
-- Escalation support tooling  
-
----
-
-## Technical Stack
-
-### Support & Incident Systems
-- Jira / ticket-based workflows  
-- Incident triage & escalation handling  
-- SLA / MTTR / FRT awareness  
-
-### APIs & Debugging
-- REST APIs (Postman, cURL)  
-- Integration troubleshooting  
-- Response validation & error tracing  
-
-### Systems
-- Linux CLI (logs, processes, services)  
-- AWS / GCP production exposure  
-- Networking: DNS, TCP/IP, VPN  
-
-### Automation
-- Python (diagnostic scripting)  
-- Bash (system tooling)  
-
----
-
-## Professional Experience Summary
-
-Experience spans production SaaS-like environments, technical support operations, and incident-driven system troubleshooting.
-
-Consistent responsibilities include:
-- Production incident response and resolution  
-- API and system-level debugging  
-- Root cause analysis under live conditions  
-- Engineering escalation with reproducible evidence  
-- Maintaining service stability in distributed systems  
-
----
-
-## Availability
-
-- Remote (US / APAC coverage)  
-- Based in Bangkok (UTC+7)  
-- Available for US overnight / Follow-the-Sun support roles  
-
----
-
-## Target Roles
-
-- SaaS Technical Support Engineer  
-- Application Support Engineer  
-- Production Support Engineer  
-- Tier 2 / Escalation Engineer  
-- Follow-the-Sun Support (US / APAC)  
-
----
-
-## Contact
-
-- GitHub: https://github.com/h-vance  
-- LinkedIn: https://linkedin.com/in/harrison-vance  
-- Website: https://harrisonvance.cc  
-- Email: hvance788@gmail.com  
+**Contact:** [hvance788@gmail.com](mailto:hvance788@gmail.com) | [LinkedIn](https://linkedin.com/in/harrison-vance)
