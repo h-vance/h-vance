@@ -2,7 +2,7 @@
 
 <img src="https://readme-typing-svg.demolab.com/?lines=Hi%2C+I'm+Harrison+Vance;Technical+Support+%7C+CX+Specialist;Automation+%26+Tooling+Engineer&font=Fira+Code&center=true&width=500&height=60&color=00FF41&vCenter=true&pause=1000&size=20" />
   
-# Harrison Vance
+
 **Technical Support | Customer Experience (CX) Specialist**
 
 <p align="center"><a href="https://github.com/h-vance"><img src="https://www.shieldcn.dev/badge/GitHub-%40h--vance-222222.svg?logo=github&variant=default&size=xs" /></a>&ensp;<a href="https://linkedin.com/in/harrison-vance"><img src="https://www.shieldcn.dev/badge/LinkedIn-%40harrison--vance-222222.svg?logo=linkedin&variant=default&size=xs" /></a>&ensp;<img src="https://www.shieldcn.dev/badge/Location-Remote%3A_USA-222222.svg?logo=googlemaps&variant=default&size=xs" /></p>
