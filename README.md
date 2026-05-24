@@ -1,5 +1,7 @@
 <img src="https://readme-typing-svg.demolab.com/?lines=Hi%2C+I'm+Harrison+Vance;Technical+Support+%7C+CX+Specialist;Automation+%26+Tooling+Engineer&font=Fira+Code&center=true&width=500&height=60&color=00FF41&vCenter=true&pause=1000&size=20" />
 
+<div align="center">
+  
 # Harrison Vance
 **Technical Support | Customer Experience (CX) Specialist**
 
