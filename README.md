@@ -7,16 +7,6 @@
 
 ---
 
-### ✦ STATS
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=h-vance&show_icons=true&theme=dark&hide_border=true" height="150" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=h-vance&layout=compact&theme=dark&hide_border=true" height="150" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=h-vance&theme=dark&hide_border=true" height="150" />
-</p>
-
----
-
 ### ✦ TECH STACK
 
 <p align="center">
