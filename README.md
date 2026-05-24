@@ -48,9 +48,9 @@ I believe that the best support engineers don't just close tickets; they protect
   <img src="https://custom-icon-badges.demolab.com/badge/SLA_&_CSAT_Management-18181b.svg?logoColor=white">
 </p>
 
-* **Support Platforms:** Zendesk, Intercom, Jira Service Management, Salesforce
+* **Support Platforms:** Zendesk, Intercom, Jira Service Management
 * **API & Web Diagnostics:** Postman, Chrome DevTools, cURL, HTTP Payloads, SSL/TLS, DNS, TCP/IP
-* **Infrastructure & Logs:** Linux CLI, AWS (CloudWatch), Datadog, Splunk
+* **Infrastructure & Logs:** Linux CLI, Blockchain, AWS (CloudWatch), Datadog, Splunk
 * **Scripting:** Python (Script Debugging), Bash
 
 ---
