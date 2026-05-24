@@ -1,7 +1,7 @@
 # Harrison Vance
 **Technical Support | Customer Experience (CX) Specialist**
 
-![Status](https://www.shieldcn.dev/badge/Status-All%20Systems%20Operational-44CC11.svg?variant=default&size=xs)
+![Status](https://www.shieldcn.dev/badge/Status-All%20Systems%20Operational-44CC11.svg?variant=default&labelColor=6b7280&size=xs)
 
 ---
 
