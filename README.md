@@ -3,7 +3,6 @@
 
 [![GitHub](https://www.shieldcn.dev/badge/GitHub-%40h--vance-181717.svg?logo=github&variant=branded&size=xs)](https://github.com/h-vance) [![Website](https://www.shieldcn.dev/badge/Website-harrisonvance.cc-181717.svg?logo=ri%3ALuLink&variant=branded&size=xs)](https://harrisonvance.cc) [![LinkedIn](https://www.shieldcn.dev/badge/LinkedIn-%40harrison--vance-0A66C2.svg?logo=linkedin&variant=branded&size=xs)](https://linkedin.com/in/harrison-vance)
 ![Location](https://www.shieldcn.dev/badge/Location-Remote%3A_USA-6366f1.svg?logo=googlemaps&variant=ghost&size=xs&labelColor=a0a9b8&color=005ffa&valueColor=7ee3a3)
-![Status](https://www.shieldcn.dev/badge/Status-All%20Systems%20Operational-44CC11.svg?variant=default&labelColor=6b7280&split=true&size=xs)
 
 ---
 
