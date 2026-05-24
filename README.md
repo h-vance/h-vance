@@ -28,7 +28,6 @@
   <img alt="Grafana" src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=Grafana&logoColor=FFFFFF" />
   <img alt="Hugging Face" src="https://img.shields.io/badge/Hugging%20Face-222222?style=for-the-badge&logo=Hugging+Face&logoColor=FFD21E" />
   <img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=Kubernetes&logoColor=FFFFFF" />
-  <img alt="Terraform" src="https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=Terraform&logoColor=FFFFFF" />
   <img alt="tmux" src="https://img.shields.io/badge/tmux-1BB91F?style=for-the-badge&logo=tmux&logoColor=FFFFFF" />
   <img alt="Zapier" src="https://img.shields.io/badge/Zapier-FF4F00?style=for-the-badge&logo=Zapier&logoColor=FFFFFF" />
 </p>
