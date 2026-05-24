@@ -1,7 +1,8 @@
 # Harrison Vance
 **Technical Support | Customer Experience (CX) Specialist**
-[![GitHub](https://www.shieldcn.dev/badge/GitHub-%40h--vance-181717.svg?
-(https://www.shieldcn.dev/badge/Location-Remote%3A_USA-6366f1.svg?logo=googlemaps&variant=ghost&size=xs&labelColor=a0a9b8&color=005ffa&valueColor=7ee3a3) !
+
+[![GitHub](https://www.shieldcn.dev/badge/GitHub-%40h--vance-181717.svg?logo=github&variant=branded&size=xs)](https://github.com/h-vance) [![Website](https://www.shieldcn.dev/badge/Website-harrisonvance.cc-181717.svg?logo=ri%3ALuLink&variant=branded&size=xs)](https://harrisonvance.cc) [![LinkedIn](https://www.shieldcn.dev/badge/LinkedIn-%40harrison--vance-0A66C2.svg?logo=linkedin&variant=branded&size=xs)](https://linkedin.com/in/harrison-vance)
+[![GitHub Followers](https://www.shieldcn.dev/github/followers/h-vance.svg?variant=secondary&size=xs)](https://github.com/h-vance?tab=followers) [![GitHub Stars](https://www.shieldcn.dev/github/user-stars/h-vance.svg?variant=secondary&size=xs)](https://github.com/h-vance?tab=repositories) [![Public Repos](https://www.shieldcn.dev/badge/Repos-15-2563eb.svg?logo=github&variant=secondary&size=xs)](https://github.com/h-vance?tab=repositories) ![Location](https://www.shieldcn.dev/badge/Location-Remote%3A_USA-6366f1.svg?logo=googlemaps&variant=ghost&size=xs&labelColor=a0a9b8&color=005ffa&valueColor=7ee3a3) ![Company](https://www.shieldcn.dev/badge/Company-quantsedgeai-1f2937.svg?logo=building&variant=ghost&size=xs)
 ![Status](https://www.shieldcn.dev/badge/Status-All%20Systems%20Operational-44CC11.svg?variant=default&labelColor=6b7280&split=true&size=xs)
 
 ---
