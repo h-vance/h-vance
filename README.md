@@ -1,39 +1,17 @@
-<picture><img src="https://capsule-render.vercel.app/api?type=waving&color=222222&height=120&section=header" /></picture>
+<img src="https://readme-typing-svg.demolab.com/?lines=Hi%2C+I'm+Harrison+Vance;Technical+Support+%7C+CX+Specialist;Automation+%26+Tooling+Engineer&font=Fira+Code&center=true&width=500&height=60&color=ffffff&vCenter=true&pause=1000&size=20" />
 
 # Harrison Vance
 **Technical Support | Customer Experience (CX) Specialist**
 
-<p align="center"><a href="https://github.com/h-vance"><img src="https://www.shieldcn.dev/badge/GitHub-%40h--vance-222222.svg?logo=github&variant=default&size=xs" /></a><a href="https://harrisonvance.cc"><img src="https://www.shieldcn.dev/badge/Website-harrisonvance.cc-222222.svg?logo=ri%3ALuLink&variant=default&size=xs" /></a><a href="https://linkedin.com/in/harrison-vance"><img src="https://www.shieldcn.dev/badge/LinkedIn-%40harrison--vance-222222.svg?logo=linkedin&variant=default&size=xs" /></a><img src="https://www.shieldcn.dev/badge/Location-Remote%3A_USA-222222.svg?logo=googlemaps&variant=default&size=xs" /></p>
+<p align="center"><a href="https://github.com/h-vance"><img src="https://www.shieldcn.dev/badge/GitHub-%40h--vance-222222.svg?logo=github&variant=default&size=xs" /></a>&ensp;<a href="https://linkedin.com/in/harrison-vance"><img src="https://www.shieldcn.dev/badge/LinkedIn-%40harrison--vance-222222.svg?logo=linkedin&variant=default&size=xs" /></a>&ensp;<img src="https://www.shieldcn.dev/badge/Location-Remote%3A_USA-222222.svg?logo=googlemaps&variant=default&size=xs" /></p>
 
 ---
 
 ### ✦ TECH STACK
 
-<p align="center">
-<b>Support Ops</b>
-<img src="https://www.shieldcn.dev/badge/Zendesk-222222.svg?variant=default&logo=Zendesk&logoColor=FFFFFF&size=xs" />
-<img src="https://www.shieldcn.dev/badge/Intercom-222222.svg?variant=default&logo=Intercom&logoColor=FFFFFF&size=xs" />
-<img src="https://www.shieldcn.dev/badge/Postman-222222.svg?variant=default&logo=Postman&logoColor=FFFFFF&size=xs" />
-<img src="https://www.shieldcn.dev/badge/Datadog-222222.svg?variant=default&logo=Datadog&logoColor=FFFFFF&size=xs" />
-<img src="https://www.shieldcn.dev/badge/Grafana-222222.svg?variant=default&logo=Grafana&logoColor=FFFFFF&size=xs" />
-</p>
-<p align="center">
-<b>Infrastructure</b>
-<img src="https://www.shieldcn.dev/badge/Linux-222222.svg?variant=default&logo=Linux&logoColor=FFFFFF&size=xs" />
-<img src="https://www.shieldcn.dev/badge/Docker-222222.svg?variant=default&logo=Docker&logoColor=FFFFFF&size=xs" />
-<img src="https://www.shieldcn.dev/badge/Kubernetes-222222.svg?variant=default&logo=Kubernetes&logoColor=FFFFFF&size=xs" />
-<img src="https://www.shieldcn.dev/badge/Terraform-222222.svg?variant=default&logo=Terraform&logoColor=FFFFFF&size=xs" />
-<img src="https://www.shieldcn.dev/badge/Ubuntu-222222.svg?variant=default&logo=Ubuntu&logoColor=FFFFFF&size=xs" />
-</p>
-<p align="center">
-<b>Languages & Tools</b>
-<img src="https://www.shieldcn.dev/badge/Python-222222.svg?variant=default&logo=Python&logoColor=FFFFFF&size=xs" />
-<img src="https://www.shieldcn.dev/badge/GNU%20Bash-222222.svg?variant=default&logo=GNU+Bash&logoColor=FFFFFF&size=xs" />
-<img src="https://www.shieldcn.dev/badge/Git-222222.svg?variant=default&logo=Git&logoColor=FFFFFF&size=xs" />
-<img src="https://www.shieldcn.dev/badge/GitHub%20Actions-222222.svg?variant=default&logo=GitHub+Actions&logoColor=FFFFFF&size=xs" />
-<img src="https://www.shieldcn.dev/badge/n8n-222222.svg?variant=default&logo=n8n&logoColor=FFFFFF&size=xs" />
-<img src="https://www.shieldcn.dev/badge/Notion-222222.svg?variant=default&logo=Notion&logoColor=FFFFFF&size=xs" />
-</p>
+<p align="center"><b>Support Ops</b> <img src="https://www.shieldcn.dev/badge/Zendesk-222222.svg?variant=default&logo=Zendesk&logoColor=FFFFFF&size=xs" /> <img src="https://www.shieldcn.dev/badge/Intercom-222222.svg?variant=default&logo=Intercom&logoColor=FFFFFF&size=xs" /> <img src="https://www.shieldcn.dev/badge/Postman-222222.svg?variant=default&logo=Postman&logoColor=FFFFFF&size=xs" /> <img src="https://www.shieldcn.dev/badge/Datadog-222222.svg?variant=default&logo=Datadog&logoColor=FFFFFF&size=xs" /> <img src="https://www.shieldcn.dev/badge/Grafana-222222.svg?variant=default&logo=Grafana&logoColor=FFFFFF&size=xs" /></p>
+<p align="center"><b>Infrastructure</b> <img src="https://www.shieldcn.dev/badge/Linux-222222.svg?variant=default&logo=Linux&logoColor=FFFFFF&size=xs" /> <img src="https://www.shieldcn.dev/badge/Docker-222222.svg?variant=default&logo=Docker&logoColor=FFFFFF&size=xs" /> <img src="https://www.shieldcn.dev/badge/Kubernetes-222222.svg?variant=default&logo=Kubernetes&logoColor=FFFFFF&size=xs" /> <img src="https://www.shieldcn.dev/badge/Terraform-222222.svg?variant=default&logo=Terraform&logoColor=FFFFFF&size=xs" /> <img src="https://www.shieldcn.dev/badge/Ubuntu-222222.svg?variant=default&logo=Ubuntu&logoColor=FFFFFF&size=xs" /></p>
+<p align="center"><b>Languages & Tools</b> <img src="https://www.shieldcn.dev/badge/Python-222222.svg?variant=default&logo=Python&logoColor=FFFFFF&size=xs" /> <img src="https://www.shieldcn.dev/badge/GNU%20Bash-222222.svg?variant=default&logo=GNU+Bash&logoColor=FFFFFF&size=xs" /> <img src="https://www.shieldcn.dev/badge/Git-222222.svg?variant=default&logo=Git&logoColor=FFFFFF&size=xs" /> <img src="https://www.shieldcn.dev/badge/GitHub%20Actions-222222.svg?variant=default&logo=GitHub+Actions&logoColor=FFFFFF&size=xs" /> <img src="https://www.shieldcn.dev/badge/n8n-222222.svg?variant=default&logo=n8n&logoColor=FFFFFF&size=xs" /> <img src="https://www.shieldcn.dev/badge/Notion-222222.svg?variant=default&logo=Notion&logoColor=FFFFFF&size=xs" /></p>
 
 ---
 
