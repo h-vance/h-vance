@@ -3,8 +3,6 @@
 
 [![Live Status](https://img.shields.io/badge/Status-All%20Systems%20Operational-brightgreen)](#) 
 
-**2026 Focus:** Streamlining incident reproduction workflows, improving API observability, and eliminating the 12-hour "cold queue" for global SaaS platforms through reliable Follow-the-Sun (FTS) handoffs.
-
 ---
 
 ### ✦ SUPPORT PHILOSOPHY
