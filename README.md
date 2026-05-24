@@ -13,12 +13,10 @@
   <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=FFFFFF" />
   <img alt="Linux" src="https://img.shields.io/badge/Linux-222222?style=for-the-badge&logo=Linux&logoColor=FCC624" />
   <img alt="Datadog" src="https://img.shields.io/badge/Datadog-632CA6?style=for-the-badge&logo=Datadog&logoColor=FFFFFF" />
-  <img alt="Splunk" src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=Splunk&logoColor=FFFFFF" />
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=FFFFFF" />
   <img alt="JSON" src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=JSON&logoColor=FFFFFF" />
   <img alt="Ethereum" src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=FFFFFF" />
   <img alt="Solidity" src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=Solidity&logoColor=FFFFFF" />
-  <img alt="Chainlink" src="https://img.shields.io/badge/Chainlink-375BD2?style=for-the-badge&logo=Chainlink&logoColor=FFFFFF" />
   <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=FFFFFF" />
   <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=GitHub+Actions&logoColor=FFFFFF" />
   <img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=Markdown&logoColor=FFFFFF" />
@@ -33,7 +31,6 @@
   <img alt="Hugging Face" src="https://img.shields.io/badge/Hugging%20Face-222222?style=for-the-badge&logo=Hugging+Face&logoColor=FFD21E" />
   <img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=Kubernetes&logoColor=FFFFFF" />
   <img alt="Notion" src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=FFFFFF" />
-  <img alt="Obsidian" src="https://img.shields.io/badge/Obsidian-7C3AED?style=for-the-badge&logo=Obsidian&logoColor=FFFFFF" />
   <img alt="Ollama" src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=Ollama&logoColor=FFFFFF" />
   <img alt="Terraform" src="https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=Terraform&logoColor=FFFFFF" />
   <img alt="tmux" src="https://img.shields.io/badge/tmux-1BB91F?style=for-the-badge&logo=tmux&logoColor=FFFFFF" />
