@@ -1,43 +1,43 @@
 # Harrison Vance
 **Technical Support | Customer Experience (CX) Specialist**
 
- <img alt="Status" src="https://img.shields.io/badge/Status-All%20Systems%20Operational-44CC11?style=for-the-badge" /></a>
+ <img alt="Status" src="https://www.shieldcn.dev/badge/Status-All%20Systems%20Operational-44CC11.svg?variant=default&size=xs" /></a>
 
 ---
 
 ### ✦ TECHNICAL ARSENAL
   <p align="center">
 
-  <img alt="Zendesk" src="https://img.shields.io/badge/Zendesk-03363D?style=for-the-badge&logo=Zendesk&logoColor=FFFFFF" />
-  <img alt="Intercom" src="https://img.shields.io/badge/Intercom-222222?style=for-the-badge&logo=Intercom&logoColor=6AFDEF" />
-  <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=FFFFFF" />
-  <img alt="Linux" src="https://img.shields.io/badge/Linux-222222?style=for-the-badge&logo=Linux&logoColor=FCC624" />
-  <img alt="Datadog" src="https://img.shields.io/badge/Datadog-632CA6?style=for-the-badge&logo=Datadog&logoColor=FFFFFF" />
-  <img alt="Splunk" src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=Splunk&logoColor=FFFFFF" />
-  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=FFFFFF" />
-  <img alt="JSON" src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=JSON&logoColor=FFFFFF" />
-  <img alt="Ethereum" src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=FFFFFF" />
-  <img alt="Solidity" src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=Solidity&logoColor=FFFFFF" />
-  <img alt="Chainlink" src="https://img.shields.io/badge/Chainlink-375BD2?style=for-the-badge&logo=Chainlink&logoColor=FFFFFF" />
-  <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=FFFFFF" />
-  <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=GitHub+Actions&logoColor=FFFFFF" />
-  <img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=Markdown&logoColor=FFFFFF" />
-  <img alt="Claude" src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=Claude&logoColor=FFFFFF" />
-  <img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=Ubuntu&logoColor=FFFFFF" />
-  <img alt="GNU Bash" src="https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU+Bash&logoColor=FFFFFF" />
-  <img alt="Cursor" src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=Cursor&logoColor=FFFFFF" />
-  <img alt="Git" src="https://img.shields.io/badge/Git-F03C2E?style=for-the-badge&logo=Git&logoColor=FFFFFF" />
-  <img alt="n8n" src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=FFFFFF" />
-  <img alt="Render" src="https://img.shields.io/badge/Render-000000?style=for-the-badge&logo=Render&logoColor=FFFFFF" />
-  <img alt="Grafana" src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=Grafana&logoColor=FFFFFF" />
-  <img alt="Hugging Face" src="https://img.shields.io/badge/Hugging%20Face-222222?style=for-the-badge&logo=Hugging+Face&logoColor=FFD21E" />
-  <img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=Kubernetes&logoColor=FFFFFF" />
-  <img alt="Notion" src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=FFFFFF" />
-  <img alt="Obsidian" src="https://img.shields.io/badge/Obsidian-7C3AED?style=for-the-badge&logo=Obsidian&logoColor=FFFFFF" />
-  <img alt="Ollama" src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=Ollama&logoColor=FFFFFF" />
-  <img alt="Terraform" src="https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=Terraform&logoColor=FFFFFF" />
-  <img alt="tmux" src="https://img.shields.io/badge/tmux-1BB91F?style=for-the-badge&logo=tmux&logoColor=FFFFFF" />
-  <img alt="Zapier" src="https://img.shields.io/badge/Zapier-FF4F00?style=for-the-badge&logo=Zapier&logoColor=FFFFFF" />
+  <img alt="Zendesk" src="https://www.shieldcn.dev/badge/Zendesk-03363D.svg?variant=default&logo=Zendesk&logoColor=FFFFFF&size=xs" />
+  <img alt="Intercom" src="https://www.shieldcn.dev/badge/Intercom-222222.svg?variant=default&logo=Intercom&logoColor=6AFDEF&size=xs" />
+  <img alt="Postman" src="https://www.shieldcn.dev/badge/Postman-FF6C37.svg?variant=default&logo=Postman&logoColor=FFFFFF&size=xs" />
+  <img alt="Linux" src="https://www.shieldcn.dev/badge/Linux-222222.svg?variant=default&logo=Linux&logoColor=FCC624&size=xs" />
+  <img alt="Datadog" src="https://www.shieldcn.dev/badge/Datadog-632CA6.svg?variant=default&logo=Datadog&logoColor=FFFFFF&size=xs" />
+  <img alt="Splunk" src="https://www.shieldcn.dev/badge/Splunk-000000.svg?variant=default&logo=Splunk&logoColor=FFFFFF&size=xs" />
+  <img alt="Python" src="https://www.shieldcn.dev/badge/Python-3776AB.svg?variant=default&logo=Python&logoColor=FFFFFF&size=xs" />
+  <img alt="JSON" src="https://www.shieldcn.dev/badge/JSON-000000.svg?variant=default&logo=JSON&logoColor=FFFFFF&size=xs" />
+  <img alt="Ethereum" src="https://www.shieldcn.dev/badge/Ethereum-3C3C3D.svg?variant=default&logo=Ethereum&logoColor=FFFFFF&size=xs" />
+  <img alt="Solidity" src="https://www.shieldcn.dev/badge/Solidity-363636.svg?variant=default&logo=Solidity&logoColor=FFFFFF&size=xs" />
+  <img alt="Chainlink" src="https://www.shieldcn.dev/badge/Chainlink-375BD2.svg?variant=default&logo=Chainlink&logoColor=FFFFFF&size=xs" />
+  <img alt="Docker" src="https://www.shieldcn.dev/badge/Docker-2496ED.svg?variant=default&logo=Docker&logoColor=FFFFFF&size=xs" />
+  <img alt="GitHub Actions" src="https://www.shieldcn.dev/badge/GitHub%20Actions-2088FF.svg?variant=default&logo=GitHub+Actions&logoColor=FFFFFF&size=xs" />
+  <img alt="Markdown" src="https://www.shieldcn.dev/badge/Markdown-000000.svg?variant=default&logo=Markdown&logoColor=FFFFFF&size=xs" />
+  <img alt="Claude" src="https://www.shieldcn.dev/badge/Claude-D97757.svg?variant=default&logo=Claude&logoColor=FFFFFF&size=xs" />
+  <img alt="Ubuntu" src="https://www.shieldcn.dev/badge/Ubuntu-E95420.svg?variant=default&logo=Ubuntu&logoColor=FFFFFF&size=xs" />
+  <img alt="GNU Bash" src="https://www.shieldcn.dev/badge/GNU%20Bash-4EAA25.svg?variant=default&logo=GNU+Bash&logoColor=FFFFFF&size=xs" />
+  <img alt="Cursor" src="https://www.shieldcn.dev/badge/Cursor-000000.svg?variant=default&logo=Cursor&logoColor=FFFFFF&size=xs" />
+  <img alt="Git" src="https://www.shieldcn.dev/badge/Git-F03C2E.svg?variant=default&logo=Git&logoColor=FFFFFF&size=xs" />
+  <img alt="n8n" src="https://www.shieldcn.dev/badge/n8n-EA4B71.svg?variant=default&logo=n8n&logoColor=FFFFFF&size=xs" />
+  <img alt="Render" src="https://www.shieldcn.dev/badge/Render-000000.svg?variant=default&logo=Render&logoColor=FFFFFF&size=xs" />
+  <img alt="Grafana" src="https://www.shieldcn.dev/badge/Grafana-F46800.svg?variant=default&logo=Grafana&logoColor=FFFFFF&size=xs" />
+  <img alt="Hugging Face" src="https://www.shieldcn.dev/badge/Hugging%20Face-222222.svg?variant=default&logo=Hugging+Face&logoColor=FFD21E&size=xs" />
+  <img alt="Kubernetes" src="https://www.shieldcn.dev/badge/Kubernetes-326CE5.svg?variant=default&logo=Kubernetes&logoColor=FFFFFF&size=xs" />
+  <img alt="Notion" src="https://www.shieldcn.dev/badge/Notion-000000.svg?variant=default&logo=Notion&logoColor=FFFFFF&size=xs" />
+  <img alt="Obsidian" src="https://www.shieldcn.dev/badge/Obsidian-7C3AED.svg?variant=default&logo=Obsidian&logoColor=FFFFFF&size=xs" />
+  <img alt="Ollama" src="https://www.shieldcn.dev/badge/Ollama-000000.svg?variant=default&logo=Ollama&logoColor=FFFFFF&size=xs" />
+  <img alt="Terraform" src="https://www.shieldcn.dev/badge/Terraform-844FBA.svg?variant=default&logo=Terraform&logoColor=FFFFFF&size=xs" />
+  <img alt="tmux" src="https://www.shieldcn.dev/badge/tmux-1BB91F.svg?variant=default&logo=tmux&logoColor=FFFFFF&size=xs" />
+  <img alt="Zapier" src="https://www.shieldcn.dev/badge/Zapier-FF4F00.svg?variant=default&logo=Zapier&logoColor=FFFFFF&size=xs" />
 </p>
 
 ---
