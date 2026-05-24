@@ -8,7 +8,6 @@
 ### ✦ TECHNICAL ARSENAL
   <p align="center">
 
-  <img alt="Jira" src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=FFFFFF" />
   <img alt="Zendesk" src="https://img.shields.io/badge/Zendesk-03363D?style=for-the-badge&logo=Zendesk&logoColor=FFFFFF" />
   <img alt="Intercom" src="https://img.shields.io/badge/Intercom-222222?style=for-the-badge&logo=Intercom&logoColor=6AFDEF" />
   <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=FFFFFF" />
@@ -22,6 +21,23 @@
   <img alt="Chainlink" src="https://img.shields.io/badge/Chainlink-375BD2?style=for-the-badge&logo=Chainlink&logoColor=FFFFFF" />
   <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=FFFFFF" />
   <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=GitHub+Actions&logoColor=FFFFFF" />
+  <img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=Markdown&logoColor=FFFFFF" />
+  <img alt="Claude" src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=Claude&logoColor=FFFFFF" />
+  <img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=Ubuntu&logoColor=FFFFFF" />
+  <img alt="GNU Bash" src="https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU+Bash&logoColor=FFFFFF" />
+  <img alt="Cursor" src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=Cursor&logoColor=FFFFFF" />
+  <img alt="Git" src="https://img.shields.io/badge/Git-F03C2E?style=for-the-badge&logo=Git&logoColor=FFFFFF" />
+  <img alt="n8n" src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=FFFFFF" />
+  <img alt="Render" src="https://img.shields.io/badge/Render-000000?style=for-the-badge&logo=Render&logoColor=FFFFFF" />
+  <img alt="Grafana" src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=Grafana&logoColor=FFFFFF" />
+  <img alt="Hugging Face" src="https://img.shields.io/badge/Hugging%20Face-222222?style=for-the-badge&logo=Hugging+Face&logoColor=FFD21E" />
+  <img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=Kubernetes&logoColor=FFFFFF" />
+  <img alt="Notion" src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=FFFFFF" />
+  <img alt="Obsidian" src="https://img.shields.io/badge/Obsidian-7C3AED?style=for-the-badge&logo=Obsidian&logoColor=FFFFFF" />
+  <img alt="Ollama" src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=Ollama&logoColor=FFFFFF" />
+  <img alt="Terraform" src="https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=Terraform&logoColor=FFFFFF" />
+  <img alt="tmux" src="https://img.shields.io/badge/tmux-1BB91F?style=for-the-badge&logo=tmux&logoColor=FFFFFF" />
+  <img alt="Zapier" src="https://img.shields.io/badge/Zapier-FF4F00?style=for-the-badge&logo=Zapier&logoColor=FFFFFF" />
 </p>
 
 ---
