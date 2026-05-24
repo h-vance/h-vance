@@ -1,31 +1,23 @@
 # Harrison Vance
 **Technical Support Engineer | Customer Experience (CX) Specialist**
 
-[![Status](https://img.shields.io/badge/Status-All%20Systems%20Operational-44CC11?style=for-the-badge)](#) 
-
----
-
-### ✦ SUPPORT PHILOSOPHY
-I believe that the best support engineers don't just close tickets; they protect engineering time by providing undeniable, reproducible evidence. My day-to-day focuses on:
-* **Systematic Debugging:** I don't guess. I isolate variables across networks, APIs, and Linux environments to find the root cause.
-* **Engineering Empathy:** I convert vague customer reports into structured bug tickets with clear reproduction steps, attached payloads, and isolated log traces.
-* **Operational Toil Reduction:** If I have to do a diagnostic check more than three times, I write a Bash or Python script to automate it.
-
-### ✦ TECHNICAL ARSENAL
-
-**Support Platforms**
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white) ![Zendesk](https://img.shields.io/badge/Zendesk-03363D?style=for-the-badge&logo=zendesk&logoColor=white) ![Intercom](https://img.shields.io/badge/Intercom-0B0B0B?style=for-the-badge&logo=intercom&logoColor=white)
-
-**API & Network Diagnostics**
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) · cURL · Chrome DevTools · SSL/TLS · DNS · TCP/IP
-
-**Infrastructure & Monitoring**
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logoColor=white) ![Datadog](https://img.shields.io/badge/Datadog-632CA6?style=for-the-badge&logo=datadog&logoColor=white) ![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)
-
-**Scripting & Automation**
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) · Bash
-
----
+<p align="center">
+  <a href="#"><img alt="Status" src="https://img.shields.io/badge/Status-All%20Systems%20Operational-44CC11?style=for-the-badge" /></a>
+  <img alt="Jira" src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=FFFFFF" />
+  <img alt="Zendesk" src="https://img.shields.io/badge/Zendesk-03363D?style=for-the-badge&logo=Zendesk&logoColor=FFFFFF" />
+  <img alt="Intercom" src="https://img.shields.io/badge/Intercom-222222?style=for-the-badge&logo=Intercom&logoColor=6AFDEF" />
+  <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=FFFFFF" />
+  <img alt="Linux" src="https://img.shields.io/badge/Linux-222222?style=for-the-badge&logo=Linux&logoColor=FCC624" />
+  <img alt="Datadog" src="https://img.shields.io/badge/Datadog-632CA6?style=for-the-badge&logo=Datadog&logoColor=FFFFFF" />
+  <img alt="Splunk" src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=Splunk&logoColor=FFFFFF" />
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=FFFFFF" />
+  <img alt="JSON" src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=JSON&logoColor=FFFFFF" />
+  <img alt="Ethereum" src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=FFFFFF" />
+  <img alt="Solidity" src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=Solidity&logoColor=FFFFFF" />
+  <img alt="Chainlink" src="https://img.shields.io/badge/Chainlink-375BD2?style=for-the-badge&logo=Chainlink&logoColor=FFFFFF" />
+  <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=FFFFFF" />
+  <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=GitHub+Actions&logoColor=FFFFFF" />
+</p>
 
 ### ✦ FEATURED SUPPORT ASSETS
 
