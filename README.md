@@ -7,7 +7,8 @@
 ---
 
 ### + TECHNICAL ARSENAL
-  
+  <p align="center">
+    <a href="#">
   <img alt="Jira" src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=FFFFFF" />
   <img alt="Zendesk" src="https://img.shields.io/badge/Zendesk-03363D?style=for-the-badge&logo=Zendesk&logoColor=FFFFFF" />
   <img alt="Intercom" src="https://img.shields.io/badge/Intercom-222222?style=for-the-badge&logo=Intercom&logoColor=6AFDEF" />
