@@ -1,6 +1,7 @@
 # Harrison Vance
 **Technical Support | Customer Experience (CX) Specialist**
-
+[![GitHub](https://www.shieldcn.dev/badge/GitHub-%40h--vance-181717.svg?
+(https://www.shieldcn.dev/badge/Location-Remote%3A_USA-6366f1.svg?logo=googlemaps&variant=ghost&size=xs&labelColor=a0a9b8&color=005ffa&valueColor=7ee3a3) !
 ![Status](https://www.shieldcn.dev/badge/Status-All%20Systems%20Operational-44CC11.svg?variant=default&labelColor=6b7280&split=true&size=xs)
 
 ---
