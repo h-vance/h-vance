@@ -24,6 +24,8 @@
   <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=GitHub+Actions&logoColor=FFFFFF" />
 </p>
 
+---
+
 ### ✦ FEATURED SUPPORT ASSETS
 
 #### 📂 [Technical Support Reproduction SOP](https://github.com/h-vance/api-failure-analysis/blob/main/docs/REPRODUCTION_SOP.md)
