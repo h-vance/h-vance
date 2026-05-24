@@ -1,7 +1,7 @@
 # Harrison Vance
 **Technical Support Engineer | Customer Experience (CX) Specialist**
 
-[![Live Status](https://img.shields.io/badge/Status-All%20Systems%20Operational-brightgreen)](#) 
+[![Status](https://img.shields.io/badge/Status-All%20Systems%20Operational-44CC11?style=for-the-badge)](#) 
 
 ---
 
@@ -10,6 +10,25 @@ I believe that the best support engineers don't just close tickets; they protect
 * **Systematic Debugging:** I don't guess. I isolate variables across networks, APIs, and Linux environments to find the root cause.
 * **Engineering Empathy:** I convert vague customer reports into structured bug tickets with clear reproduction steps, attached payloads, and isolated log traces.
 * **Operational Toil Reduction:** If I have to do a diagnostic check more than three times, I write a Bash or Python script to automate it.
+
+### ✦ TECHNICAL ARSENAL
+
+**Support Platforms**
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![Zendesk](https://img.shields.io/badge/Zendesk-03363D?style=for-the-badge&logo=zendesk&logoColor=white)
+![Intercom](https://img.shields.io/badge/Intercom-0B0B0B?style=for-the-badge&logo=intercom&logoColor=white)
+
+**API & Network Diagnostics**
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+**Infrastructure & Monitoring**
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logoColor=white)
+![Datadog](https://img.shields.io/badge/Datadog-632CA6?style=for-the-badge&logo=datadog&logoColor=white)
+![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)
+
+**Scripting & Automation**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ---
 
@@ -35,21 +54,6 @@ I believe that the best support engineers don't just close tickets; they protect
 
 #### 3. [Cloud-Operations-Runbook](https://github.com/h-vance/cloud-operations-runbook)
 * **The Impact:** Authored and maintained 15+ comprehensive technical SOPs to standardize common support tasks and reduce tribal knowledge across global teams.
-
----
-
-### ✦ TECHNICAL ARSENAL
-
-<p align="left">
-  <img src="https://custom-icon-badges.demolab.com/badge/Technical_Support_Operations-18181b.svg?logoColor=white">
-  <img src="https://custom-icon-badges.demolab.com/badge/Customer_Experience_(CX)-18181b.svg?logoColor=white">
-  <img src="https://custom-icon-badges.demolab.com/badge/SLA_&_CSAT_Management-18181b.svg?logoColor=white">
-</p>
-
-* **Support Platforms:** Zendesk, Intercom, Jira Service Management
-* **API & Web Diagnostics:** Postman, Chrome DevTools, cURL, HTTP Payloads, SSL/TLS, DNS, TCP/IP
-* **Infrastructure & Logs:** Linux CLI, Blockchain, AWS (CloudWatch), Datadog, Splunk
-* **Scripting:** Python (Script Debugging), Bash
 
 ---
 
