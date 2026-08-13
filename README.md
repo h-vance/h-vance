@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com/?lines=Hi%2C+I'm+Harrison+Vance;Technical+Support+%7C+CX+Specialist;Automation+%26+Tooling+Engineer&font=Fira+Code&center=true&width=500&height=60&color=00FF41&vCenter=true&pause=1000&size=20" />
+<img src="https://readme-typing-svg.demolab.com/?lines=Hi%2C+I'm+Harrison+Vance;Technical+Support+Engineer;AI+Agent+Tooling+%26+Incident+Automation&font=Fira+Code&center=true&width=560&height=60&color=00FF41&vCenter=true&pause=1000&size=20" />
   
 
 <p align="center"><a href="https://github.com/h-vance"><img src="https://www.shieldcn.dev/badge/GitHub-%40h--vance-222222.svg?logo=github&variant=default&size=xs" /></a>&ensp;<a href="https://linkedin.com/in/harrison-vance"><img src="https://www.shieldcn.dev/badge/LinkedIn-%40harrison--vance-222222.svg?logo=linkedin&variant=default&size=xs" /></a>&ensp;<img src="https://www.shieldcn.dev/badge/Location-Remote%3A_USA/APAC-222222.svg?logo=googlemaps&variant=default&size=xs" /></p>
@@ -12,21 +12,47 @@
 
 <table>
   <tr><td align="right" width="110">Support Ops</td><td><img src="https://www.shieldcn.dev/badge/Zendesk-222222.svg?variant=default&logo=Zendesk&logoColor=FFFFFF&size=xs" /> <img src="https://www.shieldcn.dev/badge/Intercom-222222.svg?variant=default&logo=Intercom&logoColor=FFFFFF&size=xs" /> <img src="https://www.shieldcn.dev/badge/Postman-222222.svg?variant=default&logo=Postman&logoColor=FFFFFF&size=xs" /> <img src="https://www.shieldcn.dev/badge/Datadog-222222.svg?variant=default&logo=Datadog&logoColor=FFFFFF&size=xs" /> <img src="https://www.shieldcn.dev/badge/Grafana-222222.svg?variant=default&logo=Grafana&logoColor=FFFFFF&size=xs" /></td></tr>
+  <tr><td align="right" width="110">AI &amp; Agents</td><td><img src="https://www.shieldcn.dev/badge/AWS%20Bedrock-222222.svg?variant=default&logo=Amazon+AWS&logoColor=FFFFFF&size=xs" /> <img src="https://www.shieldcn.dev/badge/MCP-222222.svg?variant=default&size=xs" /> <img src="https://www.shieldcn.dev/badge/FastAPI-222222.svg?variant=default&logo=FastAPI&logoColor=FFFFFF&size=xs" /> <img src="https://www.shieldcn.dev/badge/OpenTelemetry-222222.svg?variant=default&logo=OpenTelemetry&logoColor=FFFFFF&size=xs" /> <img src="https://www.shieldcn.dev/badge/Langfuse-222222.svg?variant=default&size=xs" /></td></tr>
   <tr><td align="right" width="110">Infra</td><td><img src="https://www.shieldcn.dev/badge/Linux-222222.svg?variant=default&logo=Linux&logoColor=FFFFFF&size=xs" /> <img src="https://www.shieldcn.dev/badge/Docker-222222.svg?variant=default&logo=Docker&logoColor=FFFFFF&size=xs" /> <img src="https://www.shieldcn.dev/badge/Kubernetes-222222.svg?variant=default&logo=Kubernetes&logoColor=FFFFFF&size=xs" /> <img src="https://www.shieldcn.dev/badge/Terraform-222222.svg?variant=default&logo=Terraform&logoColor=FFFFFF&size=xs" /> <img src="https://www.shieldcn.dev/badge/Ubuntu-222222.svg?variant=default&logo=Ubuntu&logoColor=FFFFFF&size=xs" /></td></tr>
-  <tr><td align="right" width="110">Tools</td><td><img src="https://www.shieldcn.dev/badge/Python-222222.svg?variant=default&logo=Python&logoColor=FFFFFF&size=xs" /> <img src="https://www.shieldcn.dev/badge/GNU%20Bash-222222.svg?variant=default&logo=GNU+Bash&logoColor=FFFFFF&size=xs" /> <img src="https://www.shieldcn.dev/badge/Git-222222.svg?variant=default&logo=Git&logoColor=FFFFFF&size=xs" /> <img src="https://www.shieldcn.dev/badge/GitHub%20Actions-222222.svg?variant=default&logo=GitHub+Actions&logoColor=FFFFFF&size=xs" /> <img src="https://www.shieldcn.dev/badge/n8n-222222.svg?variant=default&logo=n8n&logoColor=FFFFFF&size=xs" /> <img src="https://www.shieldcn.dev/badge/Notion-222222.svg?variant=default&logo=Notion&logoColor=FFFFFF&size=xs" /></td></tr>
+  <tr><td align="right" width="110">Tools</td><td><img src="https://www.shieldcn.dev/badge/Python-222222.svg?variant=default&logo=Python&logoColor=FFFFFF&size=xs" /> <img src="https://www.shieldcn.dev/badge/TypeScript-222222.svg?variant=default&logo=TypeScript&logoColor=FFFFFF&size=xs" /> <img src="https://www.shieldcn.dev/badge/GNU%20Bash-222222.svg?variant=default&logo=GNU+Bash&logoColor=FFFFFF&size=xs" /> <img src="https://www.shieldcn.dev/badge/Git-222222.svg?variant=default&logo=Git&logoColor=FFFFFF&size=xs" /> <img src="https://www.shieldcn.dev/badge/GitHub%20Actions-222222.svg?variant=default&logo=GitHub+Actions&logoColor=FFFFFF&size=xs" /> <img src="https://www.shieldcn.dev/badge/n8n-222222.svg?variant=default&logo=n8n&logoColor=FFFFFF&size=xs" /> <img src="https://www.shieldcn.dev/badge/Notion-222222.svg?variant=default&logo=Notion&logoColor=FFFFFF&size=xs" /></td></tr>
 </table>
 
 </div>
 
 ---
 
-### ✦ FEATURED SUPPORT ASSETS
+### ✦ FEATURED WORK
 
-#### 📂 [Technical Support Reproduction SOP](https://github.com/h-vance/api-failure-analysis/blob/main/docs/REPRODUCTION_SOP.md)
-*A professional engineering handoff framework designed to bridge the gap between Tier 1 support and Core Engineering. Focuses on HAR file analysis, payload isolation, and "Undeniable Evidence" reporting.*
+#### 📂 [aws-bedrock-ops-agent](https://github.com/h-vance/aws-bedrock-ops-agent) &nbsp;·&nbsp; [live demo ↗](https://aws-bedrock-ops-agent.onrender.com/)
+*An L2 triage copilot that ingests incident evidence bundles and returns ranked hypotheses, recommended checks, and escalation-ready notes. The same triage logic is served over both REST and the Model Context Protocol from a single deploy, and every Bedrock call is traced with OpenTelemetry GenAI semantic conventions.*
 
-#### 📂 [API Failure Analysis Framework](https://github.com/h-vance/api-failure-analysis)
-*A comprehensive knowledge base for diagnosing 4xx/5xx errors, authentication blockers, and payload issues in modern SaaS environments.*
+#### 📂 [n8n-workflow-as-code](https://github.com/h-vance/n8n-workflow-as-code)
+*Four n8n workflows authored as version-controlled TypeScript and compiled to importable JSON. Three of the four call real systems instead of mocking them — live JSON-RPC into the Bedrock agent's MCP tool, `newman` against a real Postman collection, and container restarts over the Docker Engine API and a live `kind` cluster.*
+
+#### 📂 [postman-tse-incident-lab](https://github.com/h-vance/postman-tse-incident-lab)
+*Four customer-facing API incidents — revoked key, insufficient scope, wrong route, rate limiting — each reproduced against a local API, each diagnosis verified by assertions that run in CI, each with the customer response or engineering handoff a TSE should provide.*
+
+#### 📂 [self-healing-microservices-cluster](https://github.com/h-vance/self-healing-microservices-cluster)
+*An EKS cluster with automated fault injection, self-healing orchestration, and Prometheus/Grafana observability, built with real Terraform and Helm. The README is upfront about which parts are production-ready and which aren't.*
+
+---
+
+### ✦ HOW THEY FIT TOGETHER
+
+*These aren't four unrelated demos — they call each other.*
+
+```mermaid
+flowchart LR
+    N["n8n-workflow-as-code"]
+    B["aws-bedrock-ops-agent"]
+    P["postman-tse-incident-lab"]
+    I["incident-postmortems"]
+
+    N -->|"JSON-RPC over /mcp"| B
+    N -->|"npx newman run"| P
+    B -->|"hypotheses + escalation notes"| I
+    N -->|"drafts postmortem"| I
+```
 
 ---
 
@@ -34,10 +60,11 @@
 
 | Repo | Stack | Problem | Resolution |
 |:-----|:------|:--------|:-----------|
+| [Incident-Postmortems](https://github.com/h-vance/incident-postmortems) | Docs | Incidents repeating with no record | Blameless RCAs in standard formats |
 | [Ops-Diagnostics](https://github.com/h-vance/ops-diagnostics) | Python, Bash | Manual verification slowing MTTR | Auto-ping endpoints, health parsing, log monitoring |
 | [Log-Rotation-Maintenance](https://github.com/h-vance/log-rotation-maintenance) | Bash | Logs filling server storage | Auto-rotation, compression, cleanup |
 | [Cloud-Operations-Runbook](https://github.com/h-vance/cloud-operations-runbook) | Docs | Tribal knowledge gaps | 15+ standardized SOPs |
 
 ---
 
-**Contact:** [hvance788@gmail.com](mailto:hvance788@gmail.com) | [LinkedIn](https://linkedin.com/in/harrison-vance) 
+**Contact:** [hvance788@gmail.com](mailto:hvance788@gmail.com) | [LinkedIn](https://linkedin.com/in/harrison-vance)
