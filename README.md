@@ -38,6 +38,9 @@
 #### 📂 [aws-landing-zone-terraform](https://github.com/h-vance/aws-landing-zone-terraform)
 *A multi-account AWS organization as Terraform: three OUs, two member accounts, four OU-level service control policies, and an org-wide CloudTrail delivering into an isolated log archive account. `terraform fmt`, `validate` at the root and per module, and `tflint` run on every push, with Checkov and Trivy advisory. Unlike the four above, this one is validated rather than applied. It has never run against a live organization, and the README says so and lists the evidence worth capturing when it does.*
 
+#### 📂 [cloud-operations-runbook](https://github.com/h-vance/cloud-operations-runbook)
+*Fifteen runbooks for compute, networking, identity, and application troubleshooting, each written to the same template so the next one is predictable to follow at 3am. This is the least flashy repository here and the one closest to the actual job: turning what one person happens to know into something anyone on the rota can execute.*
+
 ---
 
 ### ✦ HOW THEY FIT TOGETHER
@@ -66,8 +69,8 @@ flowchart LR
 | [Incident-Postmortems](https://github.com/h-vance/incident-postmortems) | Docs | Incidents repeating with no record | Blameless RCAs in standard formats |
 | [Ops-Diagnostics](https://github.com/h-vance/ops-diagnostics) | Python, Bash | Manual verification slowing MTTR | API health checks, SSL certificate validation, log analysis, system snapshots |
 | [Log-Rotation-Maintenance](https://github.com/h-vance/log-rotation-maintenance) | Bash | Logs filling server storage | Auto-rotation, compression, cleanup |
-| [Cloud-Operations-Runbook](https://github.com/h-vance/cloud-operations-runbook) | Docs | Tribal knowledge gaps | 15 standardized SOPs across compute, networking, identity, and application |
 | [Docker-TSE-Incident-Lab](https://github.com/h-vance/docker-tse-incident-lab) | Docker | Container failures diagnosed by guesswork | Three reproducible scenarios, outcomes asserted in CI |
+| [AWS-Automated-Remediation-Pipeline](https://github.com/h-vance/aws-automated-remediation-pipeline) | Terraform, Python | Manual response to a known, repeatable failure | CloudWatch to EventBridge to Step Functions to a Lambda that quarantines an instance. Validated in CI, never applied |
 | [Cloud-Service-Baseline](https://github.com/h-vance/cloud-service-baseline) | FastAPI, Docker, Terraform | Monitoring with nothing real to fire against | A service built to be broken on purpose, with endpoints to force failure |
 
 ---
