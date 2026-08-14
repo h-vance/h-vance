@@ -35,6 +35,9 @@
 #### 📂 [self-healing-microservices-cluster](https://github.com/h-vance/self-healing-microservices-cluster)
 *A Kubernetes workload that recovers from injected faults on its own, with recovery asserted on every push rather than described. CI creates a real `kind` cluster, installs kube-prometheus-stack, and injects three faults: a forced liveness failure, a container OOM against its memory limit, and a pod deletion. The build fails if the workload does not come back, and a Prometheus alert routes through Alertmanager to a remediation controller that records deployment state before and after.*
 
+#### 📂 [aws-landing-zone-terraform](https://github.com/h-vance/aws-landing-zone-terraform)
+*A multi-account AWS organization as Terraform: three OUs, two member accounts, four OU-level service control policies, and an org-wide CloudTrail delivering into an isolated log archive account. `terraform fmt`, `validate` at the root and per module, and `tflint` run on every push, with Checkov and Trivy advisory. Unlike the four above, this one is validated rather than applied. It has never run against a live organization, and the README says so and lists the evidence worth capturing when it does.*
+
 ---
 
 ### ✦ HOW THEY FIT TOGETHER
