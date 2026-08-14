@@ -3,7 +3,7 @@
 <img src="https://readme-typing-svg.demolab.com/?lines=Hi%2C+I'm+Harrison+Vance;Technical+Support+Engineer;AI+Agent+Tooling+%26+Incident+Automation&font=Fira+Code&center=true&width=560&height=60&color=00FF41&vCenter=true&pause=1000&size=20" />
   
 
-<p align="center"><a href="https://github.com/h-vance"><img src="https://www.shieldcn.dev/badge/GitHub-%40h--vance-222222.svg?logo=github&variant=default&size=xs" /></a>&ensp;<a href="https://linkedin.com/in/harrison-vance"><img src="https://www.shieldcn.dev/badge/LinkedIn-%40harrison--vance-222222.svg?logo=linkedin&variant=default&size=xs" /></a>&ensp;<img src="https://www.shieldcn.dev/badge/Location-Remote%3A_USA/APAC-222222.svg?logo=googlemaps&variant=default&size=xs" /></p>
+<p align="center"><a href="https://github.com/h-vance"><img src="https://www.shieldcn.dev/badge/GitHub-%40h--vance-222222.svg?logo=github&variant=default&size=xs" /></a>&ensp;<a href="https://linkedin.com/in/harrison-vance"><img src="https://www.shieldcn.dev/badge/LinkedIn-%40harrison--vance-222222.svg?logo=linkedin&variant=default&size=xs" /></a>&ensp;<a href="https://harrisonvance.cc"><img src="https://www.shieldcn.dev/badge/Website-harrisonvance.cc-222222.svg?logo=googlechrome&variant=default&size=xs" /></a>&ensp;<img src="https://www.shieldcn.dev/badge/Location-Remote-222222.svg?logo=googlemaps&variant=default&size=xs" /></p>
 
 ---
 
@@ -33,7 +33,7 @@
 *Four customer-facing API incidents (revoked key, insufficient scope, wrong route, rate limiting), each reproduced against a local API, each diagnosis verified by assertions that run in CI, each with the customer response or engineering handoff a TSE should provide.*
 
 #### 📂 [self-healing-microservices-cluster](https://github.com/h-vance/self-healing-microservices-cluster)
-*An EKS cluster with automated fault injection, self-healing orchestration, and Prometheus/Grafana observability, built with real Terraform and Helm. The README is upfront about which parts are production-ready and which aren't.*
+*A Kubernetes workload that recovers from injected faults on its own, with recovery asserted on every push rather than described. CI creates a real `kind` cluster, installs kube-prometheus-stack, and injects three faults: a forced liveness failure, a container OOM against its memory limit, and a pod deletion. The build fails if the workload does not come back, and a Prometheus alert routes through Alertmanager to a remediation controller that records deployment state before and after.*
 
 ---
 
@@ -67,4 +67,4 @@ flowchart LR
 
 ---
 
-**Contact:** [hvance788@gmail.com](mailto:hvance788@gmail.com) | [LinkedIn](https://linkedin.com/in/harrison-vance)
+**Contact:** [hvance788@gmail.com](mailto:hvance788@gmail.com) | [LinkedIn](https://linkedin.com/in/harrison-vance) | [harrisonvance.cc](https://harrisonvance.cc)
