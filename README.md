@@ -64,9 +64,11 @@ flowchart LR
 | Repo | Stack | Problem | Resolution |
 |:-----|:------|:--------|:-----------|
 | [Incident-Postmortems](https://github.com/h-vance/incident-postmortems) | Docs | Incidents repeating with no record | Blameless RCAs in standard formats |
-| [Ops-Diagnostics](https://github.com/h-vance/ops-diagnostics) | Python, Bash | Manual verification slowing MTTR | Auto-ping endpoints, health parsing, log monitoring |
+| [Ops-Diagnostics](https://github.com/h-vance/ops-diagnostics) | Python, Bash | Manual verification slowing MTTR | API health checks, SSL certificate validation, log analysis, system snapshots |
 | [Log-Rotation-Maintenance](https://github.com/h-vance/log-rotation-maintenance) | Bash | Logs filling server storage | Auto-rotation, compression, cleanup |
-| [Cloud-Operations-Runbook](https://github.com/h-vance/cloud-operations-runbook) | Docs | Tribal knowledge gaps | 15+ standardized SOPs |
+| [Cloud-Operations-Runbook](https://github.com/h-vance/cloud-operations-runbook) | Docs | Tribal knowledge gaps | 15 standardized SOPs across compute, networking, identity, and application |
+| [Docker-TSE-Incident-Lab](https://github.com/h-vance/docker-tse-incident-lab) | Docker | Container failures diagnosed by guesswork | Three reproducible scenarios, outcomes asserted in CI |
+| [Cloud-Service-Baseline](https://github.com/h-vance/cloud-service-baseline) | FastAPI, Docker, Terraform | Monitoring with nothing real to fire against | A service built to be broken on purpose, with endpoints to force failure |
 
 ---
 
