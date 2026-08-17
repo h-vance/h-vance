@@ -23,6 +23,9 @@
 
 ### ✦ FEATURED WORK
 
+#### 📂 [prove-it-labs](https://github.com/h-vance/prove-it-labs) &nbsp;·&nbsp; [take an exercise ↗](https://h-vance.github.io/prove-it-labs/)
+*A hands-on Technical Support Engineering course. Twenty five exercises across nine tracks, each one a customer describing a symptom and nothing else: no topic, no layer, no hint about what broke. The grader never just says pass or fail, it prints the assertion, the command it ran, and the raw output it evaluated. CI asserts every exercise both ways on every push, that it fails in its broken state and passes against its documented solution, against real Docker and `kind` clusters. The terminal on each page replays output captured by genuinely running those commands, re-checked byte for byte against a freshly provisioned stack, so a page cannot drift into describing a system that no longer behaves that way. [`AUDIT.md`](https://github.com/h-vance/prove-it-labs/blob/main/AUDIT.md) is the end-to-end review: 46 findings, every gate made to fail on purpose before it was trusted, and the places the review itself was wrong.*
+
 #### 📂 [aws-bedrock-ops-agent](https://github.com/h-vance/aws-bedrock-ops-agent) &nbsp;·&nbsp; [live demo ↗](https://aws-bedrock-ops-agent.onrender.com/)
 *An L2 triage copilot that ingests incident evidence bundles and returns ranked hypotheses, recommended checks, and escalation-ready notes. The same triage logic is served over both REST and the Model Context Protocol from a single deploy, and every Bedrock call is traced with OpenTelemetry GenAI semantic conventions.*
 
