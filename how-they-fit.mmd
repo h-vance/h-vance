@@ -1,0 +1,10 @@
+flowchart LR
+    N["n8n-workflow-as-code"]
+    B["aws-bedrock-ops-agent"]
+    P["postman-tse-incident-lab"]
+    I["incident-postmortems"]
+
+    N -->|"JSON-RPC over /mcp"| B
+    N -->|"npx newman run"| P
+    B -->|"hypotheses + escalation notes"| I
+    N -->|"drafts postmortem"| I

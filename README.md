@@ -50,18 +50,10 @@
 
 *These aren't four unrelated demos. They call each other.*
 
-```mermaid
-flowchart LR
-    N["n8n-workflow-as-code"]
-    B["aws-bedrock-ops-agent"]
-    P["postman-tse-incident-lab"]
-    I["incident-postmortems"]
-
-    N -->|"JSON-RPC over /mcp"| B
-    N -->|"npx newman run"| P
-    B -->|"hypotheses + escalation notes"| I
-    N -->|"drafts postmortem"| I
-```
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="how-they-fit-dark.svg">
+  <img src="how-they-fit-light.svg" width="860" alt="n8n-workflow-as-code calls aws-bedrock-ops-agent over JSON-RPC and postman-tse-incident-lab via newman; both feed incident-postmortems" />
+</picture>
 
 ---
 

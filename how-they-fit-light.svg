@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1040" height="270" viewBox="0 0 1040 270" role="img" aria-label="n8n-workflow-as-code calls aws-bedrock-ops-agent over JSON-RPC and postman-tse-incident-lab via newman; both feed incident-postmortems">
+  <defs>
+    <marker id="ah" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M0,0 L10,5 L0,10 z" fill="#57606a"/>
+    </marker>
+  </defs>
+  <style>
+    .box  { fill: #f6f8fa; stroke: #d0d7de; stroke-width: 1; }
+    .name { fill: #1f2328; font: 13px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; text-anchor: middle; }
+    .edge { fill: none; stroke: #57606a; stroke-width: 1.5; marker-end: url(#ah); }
+    .lbl  { fill: #57606a; font: 12px ui-sans-serif, -apple-system, "Segoe UI", Helvetica, Arial, sans-serif; text-anchor: middle; }
+    .lblbg{ fill: #ffffff; }
+  </style>
+
+  <path class="edge" d="M216,116 C300,116 320,48 396,48"/>
+  <path class="edge" d="M216,128 L396,128"/>
+  <path class="edge" d="M614,48 C700,48 742,112 816,122"/>
+  <path class="edge" d="M116,152 C116,215 180,232 340,232 L700,232 C818,232 828,192 824,142"/>
+
+  <rect class="box" x="16"  y="104" width="200" height="48" rx="6"/>
+  <text class="name" x="116"  y="133">n8n-workflow-as-code</text>
+  <rect class="box" x="404" y="24"  width="210" height="48" rx="6"/>
+  <text class="name" x="509"  y="53">aws-bedrock-ops-agent</text>
+  <rect class="box" x="404" y="104" width="232" height="48" rx="6"/>
+  <text class="name" x="520"  y="133">postman-tse-incident-lab</text>
+  <rect class="box" x="824" y="104" width="200" height="48" rx="6"/>
+  <text class="name" x="924"  y="133">incident-postmortems</text>
+
+  <rect class="lblbg" x="243" y="71"  width="130" height="20" rx="3"/>
+  <text class="lbl"   x="308" y="85">JSON-RPC over /mcp</text>
+  <rect class="lblbg" x="256" y="118" width="104" height="20" rx="3"/>
+  <text class="lbl"   x="308" y="132">npx newman run</text>
+  <rect class="lblbg" x="652" y="48"  width="126" height="36" rx="3"/>
+  <text class="lbl"   x="715" y="62">hypotheses +</text>
+  <text class="lbl"   x="715" y="78">escalation notes</text>
+  <rect class="lblbg" x="458" y="222" width="126" height="20" rx="3"/>
+  <text class="lbl"   x="521" y="236">drafts postmortem</text>
+</svg>
