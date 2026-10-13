@@ -1,9 +1,55 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com/?lines=Hi%2C+I'm+Harrison+Vance;Technical+Support+Engineer;AI+Agent+Tooling+%26+Incident+Automation&font=Fira+Code&center=true&width=560&height=60&color=00FF41&vCenter=true&pause=1000&size=20" />
-  
+# Harrison Vance
+
+**Technical Support & Solutions Engineering**
 
 <p align="center"><a href="https://github.com/h-vance"><img src="https://www.shieldcn.dev/badge/GitHub-%40h--vance-222222.svg?logo=github&variant=default&size=xs" /></a>&ensp;<a href="https://linkedin.com/in/harrison-vance"><img src="https://www.shieldcn.dev/badge/LinkedIn-%40harrison--vance-222222.svg?logo=linkedin&variant=default&size=xs" /></a>&ensp;<a href="https://harrisonvance.cc"><img src="https://www.shieldcn.dev/badge/Website-harrisonvance.cc-222222.svg?logo=googlechrome&variant=default&size=xs" /></a>&ensp;<img src="https://www.shieldcn.dev/badge/Location-Remote-222222.svg?logo=googlemaps&variant=default&size=xs" /></p>
+
+</div>
+
+I'm a Technical Support Engineer with 6 years of experience troubleshooting APIs, authentication, and integrations, including Tier 2 and Tier 3 escalations. I also help customers get started through onboarding, product demos, and working proofs of concept.
+
+I turn unclear reports into problems engineering can reproduce, and build automations that cut down the manual work around them. The projects below cover API integrations, AI-assisted triage, and repeatable troubleshooting, with runnable examples, automated checks, and the limits spelled out.
+
+---
+
+### ✦ FEATURED WORK
+
+#### 📂 [edi-failure-triage](https://github.com/h-vance/edi-failure-triage) &nbsp;·&nbsp; [sandbox demo ↗](https://edi-failure-triage.onrender.com/)
+A support copilot that takes a failed transaction from an Intercom sandbox ticket through n8n to a triage result and an internal note for the support engineer. The transactions and payloads are mock data based on public documentation; the repo includes a walkthrough, runnable fixtures, and a clear account of what's real and what's simulated.
+
+#### 📂 [n8n-workflow-as-code](https://github.com/h-vance/n8n-workflow-as-code)
+n8n workflows written in TypeScript and compiled to importable JSON, connecting triage tools, API checks, container operations, and SQL reporting. CI checks that the compiled workflows match their source; running them against a live n8n instance is a separate local step, with real and simulated behavior documented per workflow.
+
+#### 📂 [aws-bedrock-ops-agent](https://github.com/h-vance/aws-bedrock-ops-agent) &nbsp;·&nbsp; [demo ↗](https://aws-bedrock-ops-agent.onrender.com/)
+An L2 triage copilot that turns incident evidence into ranked hypotheses, recommended checks, and escalation notes. The same logic is available through REST and MCP, with an offline mock mode, a live Bedrock mode, and documentation covering setup, tracing, and known limits.
+
+#### 📂 [prove-it-labs](https://github.com/h-vance/prove-it-labs) &nbsp;·&nbsp; [take an exercise ↗](https://h-vance.github.io/prove-it-labs/)
+Twenty-six hands-on support exercises across nine tracks, each starting with a customer describing a symptom and no hint about what broke. The grader shows the command, assertion, and raw output; CI checks the broken and fixed states against real Docker and `kind` clusters, with the full review in [`AUDIT.md`](https://github.com/h-vance/prove-it-labs/blob/main/AUDIT.md).
+
+#### 📂 [postman-tse-incident-lab](https://github.com/h-vance/postman-tse-incident-lab)
+Four API incidents: a revoked key, insufficient scope, a wrong route, and rate limiting. Each runs against a local API, includes the customer response or engineering handoff, and has its diagnosis checked by assertions in CI.
+
+#### 📂 [cloud-operations-runbook](https://github.com/h-vance/cloud-operations-runbook)
+Fifteen runbooks for compute, networking, identity, and application troubleshooting, written to the same template so the next one is predictable to follow at 3am. The point is simple: turn what one person knows into something the next person on the rota can use.
+
+#### 📂 [self-healing-microservices-cluster](https://github.com/h-vance/self-healing-microservices-cluster)
+A Kubernetes workload tested against forced liveness failures, container OOMs, and pod deletions on a real `kind` cluster. CI checks recovery, while a Prometheus alert routes through Alertmanager to a remediation controller that records deployment state before and after.
+
+#### 📂 [aws-landing-zone-terraform](https://github.com/h-vance/aws-landing-zone-terraform)
+A multi-account AWS organization defined in Terraform, with organizational units, service control policies, and CloudTrail logging into an isolated archive account. Validated and linted in CI, but never applied to a live organization; the README explains that limit and the evidence still needed.
+
+---
+
+### ✦ HOW THEY FIT TOGETHER
+
+The n8n workflows connect the Bedrock triage agent, Postman incident lab, and postmortem drafts. This diagram shows that incident workflow.
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="how-they-fit-dark.svg">
+  <img src="how-they-fit-light.svg" width="860" alt="n8n-workflow-as-code calls aws-bedrock-ops-agent over JSON-RPC and postman-tse-incident-lab via newman; both feed incident-postmortems" />
+</picture>
 
 ---
 
@@ -21,42 +67,6 @@
 
 ---
 
-### ✦ FEATURED WORK
-
-#### 📂 [prove-it-labs](https://github.com/h-vance/prove-it-labs) &nbsp;·&nbsp; [take an exercise ↗](https://h-vance.github.io/prove-it-labs/)
-*A hands-on Technical Support Engineering course. Twenty-six exercises across nine tracks, each one a customer describing a symptom and nothing else: no topic, no layer, no hint about what broke. The grader never just says pass or fail, it prints the assertion, the command it ran, and the raw output it evaluated. CI asserts every exercise both ways on every push, that it fails in its broken state and passes against its documented solution, against real Docker and `kind` clusters. The terminal on each page replays output captured by genuinely running those commands, re-checked byte for byte against a freshly provisioned stack, so a page cannot drift into describing a system that no longer behaves that way. [`AUDIT.md`](https://github.com/h-vance/prove-it-labs/blob/main/AUDIT.md) is the end-to-end review: 51 findings, every gate made to fail on purpose before it was trusted, and the places the review itself was wrong.*
-
-#### 📂 [aws-bedrock-ops-agent](https://github.com/h-vance/aws-bedrock-ops-agent) &nbsp;·&nbsp; [live demo ↗](https://aws-bedrock-ops-agent.onrender.com/)
-*An L2 triage copilot that ingests incident evidence bundles and returns ranked hypotheses, recommended checks, and escalation-ready notes. The same triage logic is served over both REST and the Model Context Protocol from a single deploy, and every Bedrock call is traced with OpenTelemetry GenAI semantic conventions.*
-
-#### 📂 [n8n-workflow-as-code](https://github.com/h-vance/n8n-workflow-as-code)
-*Four n8n workflows authored as version-controlled TypeScript and compiled to importable JSON. Three of the four call real systems instead of mocking them: live JSON-RPC into the Bedrock agent's MCP tool, `newman` against a real Postman collection, and container restarts over the Docker Engine API and a live `kind` cluster.*
-
-#### 📂 [postman-tse-incident-lab](https://github.com/h-vance/postman-tse-incident-lab)
-*Four customer-facing API incidents (revoked key, insufficient scope, wrong route, rate limiting), each reproduced against a local API, each diagnosis verified by assertions that run in CI, each with the customer response or engineering handoff a TSE should provide.*
-
-#### 📂 [self-healing-microservices-cluster](https://github.com/h-vance/self-healing-microservices-cluster)
-*A Kubernetes workload that recovers from injected faults on its own, with recovery asserted on every push rather than described. CI creates a real `kind` cluster, installs kube-prometheus-stack, and injects three faults: a forced liveness failure, a container OOM against its memory limit, and a pod deletion. The build fails if the workload does not come back, and a Prometheus alert routes through Alertmanager to a remediation controller that records deployment state before and after.*
-
-#### 📂 [aws-landing-zone-terraform](https://github.com/h-vance/aws-landing-zone-terraform)
-*A multi-account AWS organization as Terraform: three OUs, two member accounts, four OU-level service control policies, and an org-wide CloudTrail delivering into an isolated log archive account. `terraform fmt`, `validate` at the root and per module, and `tflint` run on every push, with Checkov and Trivy advisory. Unlike the four above, this one is validated rather than applied. It has never run against a live organization, and the README says so and lists the evidence worth capturing when it does.*
-
-#### 📂 [cloud-operations-runbook](https://github.com/h-vance/cloud-operations-runbook)
-*Fifteen runbooks for compute, networking, identity, and application troubleshooting, each written to the same template so the next one is predictable to follow at 3am. This is the least flashy repository here and the one closest to the actual job: turning what one person happens to know into something anyone on the rota can execute.*
-
----
-
-### ✦ HOW THEY FIT TOGETHER
-
-*These aren't four unrelated demos. They call each other.*
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="how-they-fit-dark.svg">
-  <img src="how-they-fit-light.svg" width="860" alt="n8n-workflow-as-code calls aws-bedrock-ops-agent over JSON-RPC and postman-tse-incident-lab via newman; both feed incident-postmortems" />
-</picture>
-
----
-
 ### ✦ SUPPORT TOOLING & DIAGNOSTICS
 
 | Repo | Stack | Problem | Resolution |
@@ -69,5 +79,7 @@
 | [Cloud-Service-Baseline](https://github.com/h-vance/cloud-service-baseline) | FastAPI, Docker, Terraform | Monitoring with nothing real to fire against | A service built to be broken on purpose, with endpoints to force failure |
 
 ---
+
+US citizen. Remote-first; open to technical support, solutions, and implementation roles with US and APAC teams.
 
 **Contact:** [hvance788@gmail.com](mailto:hvance788@gmail.com) | [LinkedIn](https://linkedin.com/in/harrison-vance) | [harrisonvance.cc](https://harrisonvance.cc)
