@@ -1,8 +1,6 @@
 <div align="center">
 
-# Harrison Vance
-
-**Technical Support & Solutions Engineering**
+<img src="https://readme-typing-svg.demolab.com/?lines=Hi%2C+I'm+Harrison+Vance;Technical+Support+Engineer;Solutions+Engineering;AI+Agent+Tooling+%26+Incident+Automation&font=Fira+Code&center=true&width=560&height=60&color=00FF41&vCenter=true&pause=1000&size=20" alt="Hi, I'm Harrison Vance. Technical Support Engineer. Solutions Engineering. AI Agent Tooling &amp; Incident Automation." />
 
 <p align="center"><a href="https://github.com/h-vance"><img src="https://www.shieldcn.dev/badge/GitHub-%40h--vance-222222.svg?logo=github&variant=default&size=xs" /></a>&ensp;<a href="https://linkedin.com/in/harrison-vance"><img src="https://www.shieldcn.dev/badge/LinkedIn-%40harrison--vance-222222.svg?logo=linkedin&variant=default&size=xs" /></a>&ensp;<a href="https://harrisonvance.cc"><img src="https://www.shieldcn.dev/badge/Website-harrisonvance.cc-222222.svg?logo=googlechrome&variant=default&size=xs" /></a>&ensp;<img src="https://www.shieldcn.dev/badge/Location-Remote-222222.svg?logo=googlemaps&variant=default&size=xs" /></p>
 
