@@ -14,6 +14,9 @@ I turn unclear reports into problems engineering can reproduce, and build automa
 
 ### ✦ FEATURED WORK
 
+#### 📂 [payout-rescue](https://github.com/h-vance/payout-rescue)
+A local Stripe Connect demo for handling failed seller payouts. It classifies the failure, drafts a seller message or escalation note, and creates a retry after an operator approves it. 
+
 #### 📂 [edi-failure-triage](https://github.com/h-vance/edi-failure-triage) &nbsp;·&nbsp; [sandbox demo ↗](https://edi-failure-triage.onrender.com/)
 A support copilot that takes a failed transaction from an Intercom sandbox ticket through n8n to a triage result and an internal note for the support engineer. The transactions and payloads are mock data based on public documentation; the repo includes a walkthrough, runnable fixtures, and a clear account of what's real and what's simulated.
 
