@@ -11,7 +11,7 @@ Seeking **APAC-focused and work-from-anywhere roles**.
 
 ---
 
-I bring 6 years of experience in customer-facing technical work, including onboarding, product demos, API integrations, and production diagnostics. I partner with customers to scope requirements, build proofs of concept, and resolve authentication and webhook bottlenecks. I also build AI agents, Model Context Protocol (MCP) tools, and workflow automations that make triage more repeatable.
+I bring 6 years of experience in customer-facing technical work, including onboarding, support, product demos, API integrations, and production diagnostics. I partner with customers to scope requirements, build proofs of concept, and resolve authentication and webhook bottlenecks. I also build AI agents, Model Context Protocol (MCP) tools, and workflow automations that make triage more repeatable.
 
 ### ✦ TECH STACK
 <div align="center">
