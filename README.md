@@ -5,7 +5,6 @@
 <p align="center"><a href="https://github.com/h-vance"><img src="https://www.shieldcn.dev/badge/GitHub-%40h--vance-222222.svg?logo=github&variant=default&size=xs" alt="GitHub" /></a>&ensp;<a href="https://linkedin.com/in/harrison-vance"><img src="https://www.shieldcn.dev/badge/LinkedIn-%40harrison--vance-222222.svg?logo=linkedin&variant=default&size=xs" alt="LinkedIn" /></a>&ensp;<a href="https://harrisonvance.cc"><img src="https://www.shieldcn.dev/badge/Website-harrisonvance.cc-222222.svg?logo=googlechrome&variant=default&size=xs" alt="Website" /></a></p>
 
 **Forward Deployed Engineer (FDE) · Customer Engineer · API Integrations · AI Workflows · Production Diagnostics**<br />
-Seeking **APAC-focused and work-from-anywhere roles**.
 
 </div>
 
